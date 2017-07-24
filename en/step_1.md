@@ -7,7 +7,7 @@ In this project you will use samples to create a drum loop, including an intro a
 Click the play button below to hear how your drum loop will sound:
 
 <audio controls preload>
-  <source src="volunteer-resources/drum-loop.mp3" type="audio/mpeg">
+  <source src="resources/drum-loop.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 

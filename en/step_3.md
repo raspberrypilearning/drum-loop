@@ -13,7 +13,7 @@ Now that you have an intro, let's code the main drum loop!
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/drums-loop-1.mp3" type="audio/mpeg">
+      <source src="resources/drums-loop-1.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
@@ -30,7 +30,7 @@ Now that you have an intro, let's code the main drum loop!
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/drums-loop-2.mp3" type="audio/mpeg">
+      <source src="resources/drums-loop-2.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
@@ -43,10 +43,7 @@ Now that you have an intro, let's code the main drum loop!
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/drums-loop-3.mp3" type="audio/mpeg">
+      <source src="resources/drums-loop-3.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
-
-
-

@@ -15,7 +15,7 @@ Let's add an ending to the drum loop.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/drums-outro.mp3" type="audio/mpeg">
+      <source src="resources/drums-outro.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
