@@ -42,7 +42,7 @@ Let's start by creating a short intro to the drum loop.
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/drum-loop/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 
 --- collapse ---
