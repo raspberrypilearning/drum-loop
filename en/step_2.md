@@ -1,52 +1,37 @@
-## The drum loop
-Now that you have an intro, let's code the main drum loop!
+## The intro
+Let's start by creating a short intro to the drum loop.
 
++ Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
 
+    ![screenshot](images/drum-sample-help.png)
 
-+ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
++ Here's how your code should look:
 
-    Add this code __after your intro__:
+    ![screenshot](images/drum-intro-1.png)
 
-    ![screenshot](images/drum-main.png)
+    The line above the sample starting with `#` is a __comment__. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
 
-+ Test your drum loop. You should hear 4 drum beats after your intro.
++ Press run, and you should hear your drum sample.
 
-    <div id="audio-preview" class="pdf-hidden">
-    <audio controls preload>
-      <source src="sounds/drums-loop-1.mp3" type="audio/mpeg">
-    Your browser does not support the <code>audio</code> element.
-    </audio>
-    </div>
+    ![screenshot](images/drum-run.png)
 
-+ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
++ Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
 
-    ![screenshot](images/drum-loop-bug.png)
+    ![screenshot](images/drum-intro-2.png)
 
-+ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
++ If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (__bpm__ -- the speed) of the music.
 
-    ![screenshot](images/drum-loop-fix.png)
+    ![screenshot](images/drum-bpm.png)
 
-+ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
++ Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
 
-    <div id="audio-preview" class="pdf-hidden">
-    <audio controls preload>
-      <source src="sounds/drums-loop-2.mp3" type="audio/mpeg">
-    Your browser does not support the <code>audio</code> element.
-    </audio>
-    </div>
+    ![screenshot](images/drum-intro-splash.png)
 
-+ To make your drum loop a little more interesting, you can play the second bass drum __twice__, for just __0.5__ beats each.
-
-    ![screenshot](images/drum-loop-double.png)
-
-+ Test your code again. You should hear a different rhythm.
++ Test your intro again. You should now hear 3 drums, followed by a cymbal.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/drums-loop-3.mp3" type="audio/mpeg">
+      <source src="resources/drums-intro.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
-
-
-

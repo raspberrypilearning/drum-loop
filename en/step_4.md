@@ -1,21 +1,24 @@
---- challenge ---
-## Challenge: Create your own drum loop
-
-Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
-
-+ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to <a href="http://jumpto.cc/sonic-pi-samples">jumpto.cc/sonic-pi-samples</a>, or just type `sample :drum` and choose from the list that appears.
-
-    ![screenshot](images/drum-outro-challenge.png)
-
-+ You could experiment by adding more drums to your drum loop, that play for a shorter time:
-
-    ![screenshot](images/drum-beat-challenge-1.png)
-
-+ You could also play around with the `sleep`s between drums. Here are some examples you can try:
-
-    ![screenshot](images/drum-beat-challenge-2.png)
+## The outro
+Let's add an ending to the drum loop.
 
 
 
++ Add the `:drum_cymbal_open` sample at the end of your code, __outside__ of the loop.
 
---- /challenge ---
+    ![screenshot](images/drum-outro-1.png)
+
++ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
+
+    ![screenshot](images/drum-outro-2.png)
+
++ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the __same time__.
+
+    <div id="audio-preview" class="pdf-hidden">
+    <audio controls preload>
+      <source src="resources/drums-outro.mp3" type="audio/mpeg">
+    Your browser does not support the <code>audio</code> element.
+    </audio>
+    </div>
+
+
+
