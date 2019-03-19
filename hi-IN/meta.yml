@@ -1,29 +1,29 @@
 ---
 hero_image: images/drum-loop.png
-theme: green
+theme: हरा
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Drum Loop
-description: Learn how to use samples to create your own drum loop.
+title: ड्रम लूप
+description: अपना स्वयं का ड्रम लूप बनाने के लिए नमूनों का उपयोग करना सीखें।
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
-interests: music
+interests: संगीत
 technologies: 'sonic-pi'
-site_areas: projects
+site_areas: प्रोजेक्ट
 hardware: ''
 software: 'sonic-pi'
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: The intro
+    title: प्रारंभ
   - 
-    title: The drum loop
+    title: ड्रम लूप
   - 
-    title: The outro
+    title: समापन
   - 
-    title: 'Challenge: Create your own drum loop'
+    title: 'चुनौती: अपना खुद का ड्रम लूप बनाना'
