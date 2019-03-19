@@ -1,35 +1,35 @@
-## The intro
+## प्रारंभ
 
-Let's start by creating a short intro to the drum loop.
+आइए हम ड्रम लूप के लिए एक संक्षिप्त प्रारंभ तैयार करके शुरू करें।
 
-+ Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
++ `:drum_tom_hi_hard` नमूने को जोड़कर शुरू करें। यदि आप टाइप करना शुरू करते हैं, तो जो सूची दिखाई देती है आपको उसमें से नमूना चुनने में सक्षम होना चाहिए।
     
-    ![screenshot](images/drum-sample-help.png)
+    ![स्क्रीनशॉट](images/drum-sample-help.png)
 
-+ Here's how your code should look:
++ यहाँ दिखाया गया है कि आपका कोड कैसा दिखेगा:
     
-    ![screenshot](images/drum-intro-1.png)
+    ![स्क्रीनशॉट](images/drum-intro-1.png)
     
-    The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
+    नमूने के ऊपर `#` से शुरू होने वाली पंक्ति **टिप्पणी** है। इन पंक्तियों को Sonic Pi द्वारा अनदेखा किया जाता है, लेकिन ये तब उपयोगी होती हैं जब हम खुद को याद दिलाना चाहते हैं कि हमारा कोड क्या करता है!
 
-+ Press run, and you should hear your drum sample.
++ चलाएँ दबाएँ, और आपको अपने ड्रम का नमूना सुनाई देना चाहिए।
     
-    ![screenshot](images/drum-run.png)
+    ![स्क्रीनशॉट](images/drum-run.png)
 
-+ Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
++ ड्रम के 2 और नमूने जोड़ें, ताकि वे उच्च से निम्न तक जाएँ। आपको प्रत्येक नमूने के बीच 1 बीट के लिए `sleep` की भी आवश्यकता होगी।
     
-    ![screenshot](images/drum-intro-2.png)
+    ![स्क्रीनशॉट](images/drum-intro-2.png)
 
-+ If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
++ यदि आप अपने प्रारंभ को फिर से चलाते हैं, तो आप जो सुनेंगे वह काफी धीमा होगा। आप संगीत की प्रति मिनट बीट (**bpm** -- गति) को बदलने के लिए कोड जोड़ सकते हैं।
     
-    ![screenshot](images/drum-bpm.png)
+    ![स्क्रीनशॉट](images/drum-bpm.png)
 
-+ Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
++ अंत में, प्रारंभ के अंत में `sleep` और `:drum_splash_hard` नमूना जोड़ें।
     
-    ![screenshot](images/drum-intro-splash.png)
+    ![स्क्रीनशॉट](images/drum-intro-splash.png)
 
-+ Test your intro again. You should now hear 3 drums, followed by a cymbal.
++ अपने प्रारंभ का फिर से परीक्षण करें। अब आपको 3 ड्रम सुनाई देने चाहिए, उसके बाद एक झांझ।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
