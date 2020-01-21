@@ -12,7 +12,7 @@
 
 ## \--- collapse \---
 
-## title: क्लब लीडर की टिप्पणियाँ
+## title: क्लब नेता नोट्स
 
 ## परिचय:
 
@@ -29,14 +29,14 @@
 * drum-loop.txt
 * drum-loop.mp3
 
-## सीखने के उद्देश्य
+## अध्ययन के उद्देश्य
 
 * Sonic Pi नमूने
 * दोहराना
 
 इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
-* [समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़े।](https://www.raspberrypi.org/curriculum/programming/builder)
+* [किसी समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## चुनौतियाँ
 
@@ -54,7 +54,7 @@
 
 ## क्लब लीडर संसाधन
 
-* [डाउनलोड करने योग्य पूर्ण Sonic Pi प्रोजेक्ट](resources/drum-loop.txt)
-* [डाउनलोड करने योग्य पूर्ण प्रोजेक्ट mp3 फ़ाइल](resources/drum-loop.mp3)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi प्रोजेक्ट](resources/drum-loop.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई प्रोजेक्ट mp3 फ़ाइल](resources/drum-loop.mp3)
 
 \--- /collapse \---
