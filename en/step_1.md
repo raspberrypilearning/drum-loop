@@ -31,7 +31,6 @@ In this project, children will learn how to use samples and repetition to create
 The 'Project Materials' link for this project contains the following resources:
 
 ##### Club leader Resources
-
 You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 + drum-loop.txt
@@ -51,15 +50,12 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 ## Frequently Asked Questions
 + To find samples available in Sonic Pi, learners can go to <a href="http://jumpto.cc/sonic-pi-samples">jumpto.cc/sonic-pi-samples</a>. Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
-
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: Project materials
 ---
-
 
 ## Club leader resources
 * [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
