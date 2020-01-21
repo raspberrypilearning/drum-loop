@@ -1,6 +1,6 @@
 ---
 hero_image: images/drum-loop.png
-theme: हरा
+theme: green
 duration: 2
 listed: true
 ingredient: false
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: परिचय
+    title: भूमिका
   - 
     title: प्रारंभ
   - 
