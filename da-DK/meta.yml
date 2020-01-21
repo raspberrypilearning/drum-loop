@@ -1,0 +1,29 @@
+---
+hero_image: images/drum-loop.png
+theme: grøn
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Drum Loop
+description: Learn how to use samples to create your own drum loop.
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
+interests: musik
+technologies: 'sonic-pi'
+site_areas: projekter
+hardware: ''
+software: 'sonic-pi'
+version: 3
+last_tested: 2017/01/01
+steps:
+  - 
+    title: Tillykke Med Fødselsdagen
+  - 
+    title: The intro
+  - 
+    title: The drum loop
+  - 
+    title: The outro
+  - 
+    title: 'Challenge: Create your own drum loop'
