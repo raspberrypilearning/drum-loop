@@ -1,8 +1,6 @@
 ## The drum loop
 Now that you have an intro, let's code the main drum loop!
 
-
-
 + The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
 
     Add this code __after your intro__:

@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Create your own drum loop
 
 Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
@@ -14,8 +15,5 @@ Can you use what you've learnt to create your own drum loop? Here are some ideas
 + You could also play around with the `sleep`s between drums. Here are some examples you can try:
 
     ![screenshot](images/drum-beat-challenge-2.png)
-
-
-
 
 --- /challenge ---

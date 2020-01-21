@@ -1,8 +1,6 @@
 ## The outro
 Let's add an ending to the drum loop.
 
-
-
 + Add the `:drum_cymbal_open` sample at the end of your code, __outside__ of the loop.
 
     ![screenshot](images/drum-outro-1.png)
