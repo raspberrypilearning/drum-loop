@@ -6,7 +6,7 @@ Jetzt fügen wir dem Drum-Loop noch ein Ende hinzu.
     
     ![Screenshot](images/drum-outro-1.png)
 
-+ Klicke den Run-Button, um Dein Programm abzuspielen. Das hört sich nicht sehr interessant an, also fügen wir noch ein `: drum_snare_hard` Sample hinzu.
++ Klicke den Run-Button, um Dein Programm abzuspielen. Das hört sich nicht sehr interessant an, also fügen wir noch ein `:drum_snare_hard` Sample hinzu.
     
     ![Screenshot](images/drum-outro-2.png)
 

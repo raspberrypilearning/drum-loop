@@ -4,7 +4,7 @@
 
 Kannst du mit dem was du gelernt hast einen eigenen Drum-Loop erstellen? Hier sind einige Vorschläge, die dir helfen können:
 
-+ Verwende andere Drum-Samples in deinem Intro oder Outro. Um zu sehen, welche Samples es gibt, kannst du zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) gehen, oder einfach `sample: drum` eingeben und aus der angezeigten Liste auswählen.
++ Verwende andere Drum-Samples in deinem Intro oder Outro. Um zu sehen, welche Samples es gibt, kannst du zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) gehen, oder einfach `sample :drum` eingeben und aus der angezeigten Liste auswählen.
     
     ![Screenshot](images/drum-outro-challenge.png)
 

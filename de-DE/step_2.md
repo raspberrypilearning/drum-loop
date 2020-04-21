@@ -2,7 +2,7 @@
 
 Zuerst erstellen wir ein kurzes Intro für den Drum-Loop.
 
-+ Füge zuerst ein `: drum_tom_hi_hard` Sample hinzu. Wenn du mit der Eingabe beginnst, kannst du das Sample aus der angezeigten Liste auswählen.
++ Füge zuerst ein `:drum_tom_hi_hard` Sample hinzu. Wenn du mit der Eingabe beginnst, kannst du das Sample aus der angezeigten Liste auswählen.
     
     ![Screenshot](images/drum-sample-help.png)
 
@@ -24,7 +24,7 @@ Zuerst erstellen wir ein kurzes Intro für den Drum-Loop.
     
     ![Screenshot](images/drum-bpm.png)
 
-+ Füge am Ende des Intros noch ein `sleep` und ein `: drum_splash_hard` Sample hinzu.
++ Füge am Ende des Intros noch ein `sleep` und ein `:drum_splash_hard` Sample hinzu.
     
     ![Screenshot](images/drum-intro-splash.png)
 
