@@ -16,4 +16,4 @@ Can you use what you've learnt to create your own drum loop? Here are some ideas
     
     ![screenshot](images/drum-beat-challenge-2.png)
 
-\--- / challenge \---
+\--- /challenge \---
