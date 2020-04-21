@@ -1,4 +1,4 @@
-## Bevezetés
+## Introduction
 
 In this project you will use samples to create a drum loop, including an intro and outro.
 
@@ -6,7 +6,7 @@ In this project you will use samples to create a drum loop, including an intro a
   Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### További információk klubvezetőknek
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
@@ -14,11 +14,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Bevezetés:
+## Introduction:
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
-## Segédanyagok
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
