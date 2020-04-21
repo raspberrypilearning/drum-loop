@@ -6,23 +6,23 @@ Let's start by creating a short intro to the drum loop.
     
     ![screenshot](images/drum-sample-help.png)
 
-+ Veja como seu código deve ficar:
++ Here's how your code should look:
     
-    ![captura de tela](images/drum-intro-1.png)
+    ![screenshot](images/drum-intro-1.png)
     
     The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
 
 + Press run, and you should hear your drum sample.
     
-    ![captura de tela](images/drum-run.png)
+    ![screenshot](images/drum-run.png)
 
 + Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
     
-    ![captura de tela](images/drum-intro-2.png)
+    ![screenshot](images/drum-intro-2.png)
 
 + If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
     
-    ![captura](images/drum-bpm.png)
+    ![screenshot](images/drum-bpm.png)
 
 + Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
     
