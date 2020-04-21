@@ -1,4 +1,4 @@
-## Esittely
+## Introduction
 
 In this project you will use samples to create a drum loop, including an intro and outro.
 
@@ -6,19 +6,19 @@ In this project you will use samples to create a drum loop, including an intro a
   Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Lisätietoja klubin vetäjille
+### Additional information for club leaders
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 ## \--- collapse \---
 
-## title: Opettajille
+## title: Club leader notes
 
-## Esittely:
+## Introduction:
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
-## Aineistot
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -34,11 +34,11 @@ You can find a completed version of this project by clicking the 'Project Materi
 * Sonic Pi samples
 * Repetition
 
-Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osioista:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Haasteet
+## Challenges
 
 * "Create your own drum loop" - using additional samples to create a personalised drum loop.
 
@@ -50,9 +50,9 @@ Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](ht
 
 ## \--- collapse \---
 
-## otsikko: Projektiaineistot
+## title: Project materials
 
-## Opettajien aineistot
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
 * [Downloadable completed project mp3 file](resources/drum-loop.mp3)
