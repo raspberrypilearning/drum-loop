@@ -1,17 +1,17 @@
-## समापन
+## The outro
 
-आइए हम ड्रम लूप में एक अंत जोड़ें।
+Let's add an ending to the drum loop.
 
-+ अपने कोड के अंत में `:drum_cymbal_open` नमूना जोड़ें, लूप के **बाहर**।
++ Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
     
-    ![स्क्रीनशॉट](images/drum-outro-1.png)
+    ![screenshot](images/drum-outro-1.png)
 
-+ अपने कोड का परीक्षण करने के लिए चलाएँ दबाएँ। यह बहुत दिलचस्प नहीं लगता है, तो आइए हम एक `:drum_snare_hard` नमूना भी जोड़ दें।
++ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
     
-    ![स्क्रीनशॉट](images/drum-outro-2.png)
+    ![screenshot](images/drum-outro-2.png)
 
-+ अपने कोड का परीक्षण करें। ध्यान दें कि 2 समापन नमूनों के बीच कोई `sleep` नहीं है, इसलिए वे **एक ही समय पर** बजेंगे।
++ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the **same time**.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
