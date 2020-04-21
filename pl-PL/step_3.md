@@ -6,7 +6,7 @@ Now that you have an intro, let's code the main drum loop!
     
     Add this code **after your intro**:
     
-    ![zrzut ekranu](images/drum-main.png)
+    ![screenshot](images/drum-main.png)
 
 + Test your drum loop. You should hear 4 drum beats after your intro.
     
@@ -15,7 +15,7 @@ Now that you have an intro, let's code the main drum loop!
     </div>
 + You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
     
-    ![zrzut ekranu](images/drum-loop-bug.png)
+    ![screenshot](images/drum-loop-bug.png)
 
 + Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
     
@@ -28,7 +28,7 @@ Now that you have an intro, let's code the main drum loop!
     </div>
 + To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
     
-    ![zrzut ekranu](images/drum-loop-double.png)
+    ![screenshot](images/drum-loop-double.png)
 
 + Test your code again. You should hear a different rhythm.
     
