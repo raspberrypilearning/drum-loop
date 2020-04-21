@@ -4,7 +4,7 @@ Let's start by creating a short intro to the drum loop.
 
 + Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
     
-    ![képernyőkép](images/drum-sample-help.png)
+    ![screenshot](images/drum-sample-help.png)
 
 + Here's how your code should look:
     
