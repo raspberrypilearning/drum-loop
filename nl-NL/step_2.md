@@ -6,7 +6,7 @@ Let's start by creating a short intro to the drum loop.
     
     ![screenshot](images/drum-sample-help.png)
 
-+ Zo zou de code eruit moeten zien:
++ Here's how your code should look:
     
     ![screenshot](images/drum-intro-1.png)
     
@@ -31,5 +31,5 @@ Let's start by creating a short intro to the drum loop.
 + Test your intro again. You should now hear 3 drums, followed by a cymbal.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
