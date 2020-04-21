@@ -1,4 +1,4 @@
-## 介紹
+## Introduction
 
 In this project you will use samples to create a drum loop, including an intro and outro.
 
@@ -6,15 +6,15 @@ In this project you will use samples to create a drum loop, including an intro a
   Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Code Club 工作人員延伸閱讀
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## 介紹:
+## Introduction:
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
@@ -36,7 +36,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [結合程式設計結構來解決問題。](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Challenges
 
@@ -46,9 +46,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -57,4 +57,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
 * [Downloadable completed project mp3 file](resources/drum-loop.mp3)
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
