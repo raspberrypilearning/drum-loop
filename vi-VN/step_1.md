@@ -1,4 +1,4 @@
-## Giới thiệu
+## Introduction
 
 In this project you will use samples to create a drum loop, including an intro and outro.
 
@@ -6,19 +6,19 @@ In this project you will use samples to create a drum loop, including an intro a
   Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Thông tin bổ sung cho lãnh đạo của các câu lạc bộ
+### Additional information for club leaders
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [Phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Ghi chú dành cho lãnh đạo câu lạc bộ
+## title: Club leader notes
 
-## Giới thiệu:
+## Introduction:
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
-## Tài liệu liên quan
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -29,16 +29,16 @@ You can find a completed version of this project by clicking the 'Project Materi
 * drum-loop.txt
 * drum-loop.mp3
 
-## Mục tiêu học tập
+## Learning Objectives
 
 * Sonic Pi samples
 * Repetition
 
-Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Kết hợp các cấu trúc lập trình để giải quyết vấn đề.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Thử thách
+## Challenges
 
 * "Create your own drum loop" - using additional samples to create a personalised drum loop.
 
@@ -48,11 +48,11 @@ Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi D
 
 \--- /collapse \---
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Tài liệu và tài nguyên cho dự án
+## title: Project materials
 
-## Tài liệu cho lãnh đạo câu lạc bộ
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
 * [Downloadable completed project mp3 file](resources/drum-loop.mp3)
