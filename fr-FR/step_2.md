@@ -4,7 +4,7 @@ Let's start by creating a short intro to the drum loop.
 
 + Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
     
-    ![capture d'écran](images/drum-sample-help.png)
+    ![screenshot](images/drum-sample-help.png)
 
 + Here's how your code should look:
     
@@ -14,11 +14,11 @@ Let's start by creating a short intro to the drum loop.
 
 + Press run, and you should hear your drum sample.
     
-    ![capture d'écran](images/drum-run.png)
+    ![screenshot](images/drum-run.png)
 
 + Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
     
-    ![capture d'écran](images/drum-intro-2.png)
+    ![screenshot](images/drum-intro-2.png)
 
 + If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
     
@@ -26,7 +26,7 @@ Let's start by creating a short intro to the drum loop.
 
 + Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
     
-    ![capture d'écran](images/drum-intro-splash.png)
+    ![screenshot](images/drum-intro-splash.png)
 
 + Test your intro again. You should now hear 3 drums, followed by a cymbal.
     
