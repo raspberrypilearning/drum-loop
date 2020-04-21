@@ -1,4 +1,4 @@
-## Introduzione
+## Introduction
 
 In this project you will use samples to create a drum loop, including an intro and outro.
 
@@ -6,19 +6,19 @@ In this project you will use samples to create a drum loop, including an intro a
   Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Ulteriori informazioni per gli organizzatori dei club
+### Additional information for club leaders
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 ## \--- collapse \---
 
-## title: Note per i volontari
+## title: Club leader notes
 
-## Introduzione:
+## Introduction:
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
-## Risorse
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -29,20 +29,20 @@ You can find a completed version of this project by clicking the 'Project Materi
 * drum-loop.txt
 * drum-loop.mp3
 
-## Obiettivi di apprendimento
+## Learning Objectives
 
 * Sonic Pi samples
 * Repetition
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combinare i costrutti base di un linguaggio di programmazione per risolvere un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Sfide
+## Challenges
 
 * "Create your own drum loop" - using additional samples to create a personalised drum loop.
 
-## Domande frequenti
+## Frequently Asked Questions
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
@@ -50,11 +50,11 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 ## \--- collapse \---
 
-## title: Materiali del progetto
+## title: Project materials
 
-## Risorse per gli organizzatori del club
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
 * [Downloadable completed project mp3 file](resources/drum-loop.mp3)
 
-\--- / chiudi \---
+\--- /collapse \---
