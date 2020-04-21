@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Challenge: Create your own drum loop
 
@@ -6,7 +6,7 @@ Can you use what you've learnt to create your own drum loop? Here are some ideas
 
 + You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
     
-    ![képernyőkép](images/drum-outro-challenge.png)
+    ![screenshot](images/drum-outro-challenge.png)
 
 + You could experiment by adding more drums to your drum loop, that play for a shorter time:
     
@@ -16,4 +16,4 @@ Can you use what you've learnt to create your own drum loop? Here are some ideas
     
     ![screenshot](images/drum-beat-challenge-2.png)
 
-\--- / challenge \---
+\--- /challenge \---
