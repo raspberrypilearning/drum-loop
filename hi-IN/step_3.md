@@ -1,37 +1,37 @@
-## ड्रम लूप
+## The drum loop
 
-अब जब आपके पास प्रारंभ है, तो आइए हम मुख्य ड्रम लूप को कोड करें!
+Now that you have an intro, let's code the main drum loop!
 
-+ ड्रम लूप 4 नमूनों से बना होगा, जिसमें बारी-बारी से बास (धीमी ड्रम ध्वनि) और स्नेयर (तेज़ ड्रम ध्वनि) होगी।
++ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
     
-    इस कोड को जोड़ें **अपने प्रारंभ के बाद**:
+    Add this code **after your intro**:
     
-    ![स्क्रीनशॉट](images/drum-main.png)
+    ![screenshot](images/drum-main.png)
 
-+ अपने ड्रम लूप का परीक्षण करें। अपने प्रारंभ के बाद आपको 4 ड्रम बीट सुनाई देने चाहिए।
++ Test your drum loop. You should hear 4 drum beats after your intro.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ आप अपने ड्रम से पहले `4.times do` और अंत में `end` जोड़कर अपने ड्रम लूप को दोहरा सकते हैं।
++ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
     
-    ![स्क्रीनशॉट](images/drum-loop-bug.png)
+    ![screenshot](images/drum-loop-bug.png)
 
-+ अपने ड्रम फिर से बजाएँ, और आप देखेंगे कि उनकी आवाज़ बिल्कुल सही नहीं है। ऐसा इसलिए है क्योंकि आपको लूप में अंतिम ड्रम के बाद एक `sleep` जोड़ने की आवश्यकता है।
++ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
     
-    ![स्क्रीनशॉट](images/drum-loop-fix.png)
+    ![screenshot](images/drum-loop-fix.png)
 
-+ अपने कोड का फिर से परीक्षण करें। इस बार आपको अपने 4 ड्रम बीट को 4 बार दोहराते हुए सुनाई देना चाहिए।
++ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ अपने ड्रम लूप को थोड़ा और दिलचस्प बनाने के लिए, आप दूसरे बास (मंद्र) ड्रम को **दो बार** बजा सकते हैं, प्रत्येक में केवल **0.5** बीट होने पर।
++ To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
     
-    ![स्क्रीनशॉट](images/drum-loop-double.png)
+    ![screenshot](images/drum-loop-double.png)
 
-+ अपने कोड का फिर से परीक्षण करें। आपको एक अलग लय सुनाई देनी चाहिए।
++ Test your code again. You should hear a different rhythm.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
