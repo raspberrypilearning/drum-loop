@@ -21,7 +21,7 @@ Now that you have an intro, let's code the main drum loop!
     
     ![screenshot](images/drum-loop-fix.png)
 
-+ Δοκίμασε ξανά τον κώδικά σου. This time you should hear your 4 drum beats repeat 4 times.
++ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
@@ -30,7 +30,7 @@ Now that you have an intro, let's code the main drum loop!
     
     ![screenshot](images/drum-loop-double.png)
 
-+ Δοκίμασε ξανά τον κώδικά σου. You should hear a different rhythm.
++ Test your code again. You should hear a different rhythm.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
