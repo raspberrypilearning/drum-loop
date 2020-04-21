@@ -1,6 +1,6 @@
 ---
-hero_image: images / drum-loop.png
-theme: zöld
+hero_image: images/drum-loop.png
+theme: green
 duration: 2
 listed: true
 ingredient: false
@@ -9,7 +9,7 @@ curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Drum Loop
 description: Learn how to use samples to create your own drum loop.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
-interests: zene
+interests: music
 technologies: 'sonic-pi'
 site_areas: projects
 hardware: ''
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Bevezetés
+    title: Introduction
   - 
     title: The intro
   - 
