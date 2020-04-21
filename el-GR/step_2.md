@@ -6,7 +6,7 @@ Let's start by creating a short intro to the drum loop.
     
     ![screenshot](images/drum-sample-help.png)
 
-+ Έτσι πρέπει να φαίνεται ο κώδικας:
++ Here's how your code should look:
     
     ![screenshot](images/drum-intro-1.png)
     
