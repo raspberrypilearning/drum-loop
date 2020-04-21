@@ -1,4 +1,4 @@
-## Giriş
+## Introduction
 
 In this project you will use samples to create a drum loop, including an intro and outro.
 
@@ -6,19 +6,19 @@ In this project you will use samples to create a drum loop, including an intro a
   Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Kulüp liderleri için ek bilgiler
+### Additional information for club leaders
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/drum-loop/print) kullanın.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
-## \--- küçült \---
+## \--- collapse \---
 
-## title: Kulüp lideri notları
+## title: Club leader notes
 
-## Giriş:
+## Introduction:
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
-## Kaynaklar
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -34,15 +34,15 @@ You can find a completed version of this project by clicking the 'Project Materi
 * Sonic Pi samples
 * Repetition
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Meydan Okumalar
+## Challenges
 
 * "Create your own drum loop" - using additional samples to create a personalised drum loop.
 
-## Sıkça Sorulan Sorular
+## Frequently Asked Questions
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
@@ -50,9 +50,9 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un
 
 ## \--- collapse \---
 
-## title: Proje materyalleri
+## title: Project materials
 
-## Kulüp lideri için kaynaklar
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
 * [Downloadable completed project mp3 file](resources/drum-loop.mp3)
