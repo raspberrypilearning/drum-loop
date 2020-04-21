@@ -4,11 +4,11 @@ Let's start by creating a short intro to the drum loop.
 
 + Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
     
-    ![captura de pantalla](images/drum-sample-help.png)
+    ![screenshot](images/drum-sample-help.png)
 
 + Here's how your code should look:
     
-    ![captura de pantalla](images/drum-intro-1.png)
+    ![screenshot](images/drum-intro-1.png)
     
     The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
 
@@ -26,7 +26,7 @@ Let's start by creating a short intro to the drum loop.
 
 + Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
     
-    ![captura de pantalla](images/drum-intro-splash.png)
+    ![screenshot](images/drum-intro-splash.png)
 
 + Test your intro again. You should now hear 3 drums, followed by a cymbal.
     
