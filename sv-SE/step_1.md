@@ -1,4 +1,4 @@
-## Inledning
+## Introduction
 
 In this project you will use samples to create a drum loop, including an intro and outro.
 
@@ -14,11 +14,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
-## Hjälpmedel
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
