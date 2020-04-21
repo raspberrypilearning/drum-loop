@@ -6,7 +6,7 @@ Now that you have an intro, let's code the main drum loop!
     
     Add this code **after your intro**:
     
-    ![captura de pantalla](images/drum-main.png)
+    ![screenshot](images/drum-main.png)
 
 + Test your drum loop. You should hear 4 drum beats after your intro.
     
@@ -21,16 +21,16 @@ Now that you have an intro, let's code the main drum loop!
     
     ![screenshot](images/drum-loop-fix.png)
 
-+ Vuelve a probar tu código. This time you should hear your 4 drum beats repeat 4 times.
++ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
 + To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
     
-    ![captura de pantalla](images/drum-loop-double.png)
+    ![screenshot](images/drum-loop-double.png)
 
-+ Vuelve a probar tu código. You should hear a different rhythm.
++ Test your code again. You should hear a different rhythm.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
