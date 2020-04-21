@@ -4,7 +4,7 @@
 
 Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
 
-+ You could change the drum samples used in your intro or outro. Om te zien welke voorbeelden beschikbaar zijn, kun je naar [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), of typ je gewoon `sample :drum` en kies uit de lijst die verschijnt.
++ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
     
     ![screenshot](images/drum-outro-challenge.png)
 
