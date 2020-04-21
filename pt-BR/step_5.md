@@ -1,4 +1,4 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Challenge: Create your own drum loop
 
@@ -10,10 +10,10 @@ Can you use what you've learnt to create your own drum loop? Here are some ideas
 
 + You could experiment by adding more drums to your drum loop, that play for a shorter time:
     
-    ![captura de tela](images/drum-beat-challenge-1.png)
+    ![screenshot](images/drum-beat-challenge-1.png)
 
 + You could also play around with the `sleep`s between drums. Here are some examples you can try:
     
-    ![captura de tela](images/drum-beat-challenge-2.png)
+    ![screenshot](images/drum-beat-challenge-2.png)
 
 \--- /challenge \---
