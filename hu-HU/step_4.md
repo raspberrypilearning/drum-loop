@@ -4,7 +4,7 @@ Let's add an ending to the drum loop.
 
 + Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
     
-    ![képernyőkép](images/drum-outro-1.png)
+    ![screenshot](images/drum-outro-1.png)
 
 + Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
     
