@@ -1,35 +1,35 @@
-## The intro
+## المقدمة
 
-Let's start by creating a short intro to the drum loop.
+لنبدأ بإنشاء مقدمة قصيرة عن حلقة الطبل.
 
-+ Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
++ ابدأ بإضافة العينة `:drum_tom_hi_hard`. إذا بدأت الكتابة ، فيجب أن تكون قادرًا على اختيار العينة من القائمة التي تظهر.
     
-    ![screenshot](images/drum-sample-help.png)
+    ![لقطة الشاشة](images/drum-sample-help.png)
 
-+ Here's how your code should look:
++ إليك كيفية ظهور التعليمة البرمجية الخاصة بك:
     
-    ![screenshot](images/drum-intro-1.png)
+    ![لقطة الشاشة](images/drum-intro-1.png)
     
-    The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
+    الخط أعلى العينة يبدأ بـ ` # ` هو **تعليق**. يتم تجاهل هذه الخطوط بواسطة Sonic Pi ، ولكنها مفيدة عندما نريد أن نذكر أنفسنا بما تفعله التعليمة البرمجية الخاص بنا!
 
-+ Press run, and you should hear your drum sample.
++ اضغط على تشغيل ، ويجب أن تسمع عينة طبل.
     
-    ![screenshot](images/drum-run.png)
+    ![لقطة الشاشة](images/drum-run.png)
 
-+ Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
++ أضف عينتين أخرى من الأسطوانة ، بحيث تنتقل من الأعلى إلى الأقل. ستحتاج أيضًا إلى` فاصل ` بين كل عينة.
     
-    ![screenshot](images/drum-intro-2.png)
+    ![لقطة الشاشة](images/drum-intro-2.png)
 
-+ If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
++ إذا قمت بتشغيل المقدمة الخاصة بك مرة أخرى ، ستسمع أنها بطيئة للغاية. يمكنك إضافة تعليمة برمجية لتغيير الدقات في الدقيقة (** نبضة في الدقيقة ** - لسرعة) الموسيقى.
     
-    ![screenshot](images/drum-bpm.png)
+    ![لقطة الشاشة](images/drum-bpm.png)
 
-+ Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
++ وأخيرًا ، أضف ` فاصل` و `: drum_splash_hard ` عينة في نهاية المقدمة.
     
-    ![screenshot](images/drum-intro-splash.png)
+    ![لقطة الشاشة](images/drum-intro-splash.png)
 
-+ Test your intro again. You should now hear 3 drums, followed by a cymbal.
++ اختبر مدخلك (مقدمة النغمة) مرة أخرى. يجب أن تسمع الآن 3 نغمات، يليها رنة.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio>
     </div>
