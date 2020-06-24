@@ -1,0 +1,39 @@
+usar_bpm 120
+
+muestra: batería
+
+
+
+
+
+
+
+
+
+
+#intro
+muestra :batería_tom_hi_hard
+dormir 1
+muestra: batería_tom_mid_hard
+dormir 1
+muestra :batería_tom_lo_hard
+dormir 1
+muestra: batería_splash_hard
+
+#bucle de batería
+4.veces do
+  muestra: batería_bajo_hard
+  sleep 1
+  muestra :batería_splash_hard
+  dormir 1
+  muestra :batería_bajo_hard
+  dormir 0.5
+  muestra :batería_bajo_hard
+  dormir 0.5
+  muestra :batería_splash_hard
+  dormir 1
+fin
+
+#outro
+muestra: batería_snare_hard
+muestra: platillo_de_batería_abierto
