@@ -1,60 +1,60 @@
-## Introduction
+## المقدمة
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+في هذا المشروع ، ستستخدم عينات لإنشاء حلقة طبل ، بما في ذلك مقدمة وخاتمة.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  انقر على زر التشغيل أدناه لتسمع كيف ستبدو مقطعك الموسيقي: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio>
 </div>
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ملاحظات قادة النادي
 
-## Introduction:
+## مقدمة:
 
-In this project, children will learn how to use samples and repetition to create a drum loop.
+في هذا المشروع ، سيتعلم الأطفال كيفية استخدام العينات والتكرار لإنشاء حلقة طبل.
 
-## Resources
+## الموارد
 
-The 'Project Materials' link for this project contains the following resources:
+يحتوي رابط "مواد المشروع" لهذا المشروع على الموارد التالية:
 
-##### Club leader Resources
+##### موارد قادة النادي
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+يمكنك العثور على نسخة كاملة من هذا المشروع بالنقر على رابط "مواد المشروع" لهذا المشروع، والذي يحتوي على:
 
 * drum-loop.txt
 * drum-loop.mp3
 
-## Learning Objectives
+## أهداف التعلم
 
-* Sonic Pi samples
-* Repetition
+* عينات Sonic Pi
+* التكرار
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [دمج المهارات البرمجية لحل مشكلة.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## التحديات
 
-* "Create your own drum loop" - using additional samples to create a personalised drum loop.
+* "إنشاء حلقة الطبل الخاصة بك" - باستخدام عينات إضافية لإنشاء حلقة طبل مخصصة.
 
-## Frequently Asked Questions
+## الأسئلة الشائعة
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* للعثور على العينات المتوفرة في Sonic Pi ، يمكن للمتعلمين الانتقال إلى [ jumpto.cc/sonic-pi-samples ](http://jumpto.cc/sonic-pi-samples). بدلاً من ذلك، يمكنهم كتابة `عينة [space]` واختيار من القائمة التي تظهر.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## مواد المشروع
 
-## Club leader resources
+## موارد قادة النادي
 
-* [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
-* [Downloadable completed project mp3 file](resources/drum-loop.mp3)
+* [مشروع Sonic Pi المكتمل للتحميل](resources/drum-loop.txt)
+* [التحميل الكامل للمشروع، ملف mp3](resources/drum-loop.mp3)
 
 \--- /collapse \---
