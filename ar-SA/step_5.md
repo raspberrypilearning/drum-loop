@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own drum loop
+## التحدي: أنشئ حلقة الطبل الخاصة بك
 
-Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
+هل يمكنك استخدام ما تعلمته لإنشاء حلقة الطبل الخاصة بك؟ إليك بعض الأفكار لمساعدتك:
 
-+ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
++ يمكنك تغيير عينات الطبل المستخدمة في مقدمة أو الخاتمة. لمعرفة ما هي العينات المتاحة، يمكنك الذهاب إلى [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)، أو فقط اكتب `عينة :drum` واختيار من القائمة التي تظهر.
     
-    ![screenshot](images/drum-outro-challenge.png)
+    ![لقطة الشاشة](images/drum-outro-challenge.png)
 
-+ You could experiment by adding more drums to your drum loop, that play for a shorter time:
++ يمكنك التجربة بإضافة المزيد من النغمات لحلقة الطبل الخاصة بك، والتي تشتغل لفترة أقصر:
     
-    ![screenshot](images/drum-beat-challenge-1.png)
+    ![لقطة الشاشة](images/drum-beat-challenge-1.png)
 
-+ You could also play around with the `sleep`s between drums. Here are some examples you can try:
++ يمكنك أيضًا الاستمتاع `بالفواصل` ق بين النغمات. فيما يلي بعض الأمثلة التي يمكنك تجربتها:
     
-    ![screenshot](images/drum-beat-challenge-2.png)
+    ![لقطة الشاشة](images/drum-beat-challenge-2.png)
 
 \--- /challenge \---
