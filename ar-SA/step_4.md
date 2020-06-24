@@ -1,17 +1,17 @@
-## The outro
+## المقدمة
 
-Let's add an ending to the drum loop.
+دعنا نضيف نهاية إلى حلقة الطبل.
 
-+ Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
++ أضف `: drum_cymbal_open ` نموذج في نهاية التعليمة البرمجية الخاص بك ، ** خاريج** التعليمة البرمجية تكرار.
     
-    ![screenshot](images/drum-outro-1.png)
+    ![لقطة الشاشة](images/drum-outro-1.png)
 
-+ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
++ اضغط على تشغيل لاختبار التعليمة البرمجية الخاص بك. يبدو غير مثير للاهتمام، لذا دعونا نضيف أيضًا عينة `:drum_snare_hard`.
     
-    ![screenshot](images/drum-outro-2.png)
+    ![لقطة الشاشة](images/drum-outro-2.png)
 
-+ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the **same time**.
++ اختبر التعليمة البرمجية الخاص بك. لاحظ أنه لا يوجد ` فاصل` بين عينتي الصوت ، لذا يشتغلان في نفس الوقت </strong>.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
