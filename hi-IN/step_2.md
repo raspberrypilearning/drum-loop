@@ -31,5 +31,8 @@
 + अपने प्रारंभ का फिर से परीक्षण करें। अब आपको 3 ड्रम सुनाई देने चाहिए, उसके बाद एक झांझ।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+    <audio controls preload> 
+        <source src="resources/drums-intro.mp3" type="audio/mpeg"> 
+    आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
+    </audio>
     </div>

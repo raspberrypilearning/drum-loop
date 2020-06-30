@@ -13,5 +13,8 @@
 + अपने कोड का परीक्षण करें। ध्यान दें कि 2 समापन नमूनों के बीच कोई `sleep` नहीं है, इसलिए वे **एक ही समय पर** बजेंगे।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+    <audio controls preload> 
+        <source src="resources/drums-outro.mp3" type="audio/mpeg"> 
+    आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
+    </audio>
     </div>
