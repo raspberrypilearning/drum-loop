@@ -1,60 +1,60 @@
-## Introduction
+## भूमिका
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+इस प्रोजेक्ट में आप प्रारंभ और समापन सहित ड्रम लूप बनाने के लिए नमूनों का उपयोग करेंगे।
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  आपके ड्रम लूप की आवाज़ कैसी होगी यह सुनने के लिए नीचे दिए गए प्ले (चलाएँ) बटन पर क्लिक करें: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
 </div>
 
-### Additional information for club leaders
+### क्लब लीडरों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/drum-loop/print) का उपयोग करें।
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: क्लब नेता नोट्स
 
-## Introduction:
+## भूमिका:
 
-In this project, children will learn how to use samples and repetition to create a drum loop.
+इस परियोजना में, बच्चे सीखेंगे कि ड्रम लूप बनाने के लिए नमूनों और दोहराव का उपयोग कैसे करें।
 
-## Resources
+## संसाधन
 
-The 'Project Materials' link for this project contains the following resources:
+इस परियोजना के लिए 'प्रोजेक्ट सामग्री' लिंक में निम्नलिखित संसाधन सम्मिलित हैं:
 
-##### Club leader Resources
+##### क्लब लीडर ले लिए संसाधन
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+आप इस परियोजना के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके इस परियोजना का पूर्ण संस्करण पा सकते हैं, जिसमें निम्न शामिल हैं:
 
 * drum-loop.txt
 * drum-loop.mp3
 
-## Learning Objectives
+## अध्ययन के उद्देश्य
 
-* Sonic Pi samples
-* Repetition
+* Sonic Pi नमूने
+* दोहराना
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+इस परियोजना में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [किसी समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## चुनौतियाँ
 
-* "Create your own drum loop" - using additional samples to create a personalised drum loop.
+* "अपना स्वयं का ड्रम लूप बनाना" - एक निजीकृत ड्रम लूप बनाने के लिए अतिरिक्त नमूनों का उपयोग करना।
 
-## Frequently Asked Questions
+## अक्सर पूछे जाने वाले सवाल
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Sonic Pi में उपलब्ध नमूनों को खोजने के लिए, शिक्षार्थी [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) पर जा सकते हैं। वैकल्पिक रूप से, वे केवल `sample [space]` टाइप कर सकते हैं और दिखाई देने वाली सूची में से चुन सकते हैं।
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: प्रोजेक्ट सामग्री
 
-## Club leader resources
+## क्लब लीडर ले लिए संसाधन
 
-* [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
-* [Downloadable completed project mp3 file](resources/drum-loop.mp3)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi परियोजना](resources/drum-loop.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई प्रोजेक्ट mp3 फ़ाइल](resources/drum-loop.mp3)
 
 \--- /collapse \---
