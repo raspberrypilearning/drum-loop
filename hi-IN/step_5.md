@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own drum loop
+## चुनौती: अपना खुद का ड्रम लूप बनाना
 
-Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
+आपने जो कुछ सीखा है क्या आप उसका अपना खुद का ड्रम लूप बनाने के लिए उपयोग कर सकते हैं? यहाँ आपकी मदद के लिए कुछ विचार दिए गए हैं:
 
-+ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
++ आप अपने प्रारंभ या समापन में इस्तेमाल किए गए ड्रम के नमूनों को बदल सकते हैं। यह देखने के लिए कि कौन से नमूने उपलब्ध हैं, आप [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) पर जा सकते हैं, या बस टाइप करें `sample :drum` और दिखाई देने वाली सूची में से चुनें।
     
-    ![screenshot](images/drum-outro-challenge.png)
+    ![स्क्रीनशॉट](images/drum-outro-challenge.png)
 
-+ You could experiment by adding more drums to your drum loop, that play for a shorter time:
++ आप अपने ड्रम लूप में कम समय के लिए बजने वाले अधिक ड्रम जोड़कर प्रयोग कर सकते हैं:
     
-    ![screenshot](images/drum-beat-challenge-1.png)
+    ![स्क्रीनशॉट](images/drum-beat-challenge-1.png)
 
-+ You could also play around with the `sleep`s between drums. Here are some examples you can try:
++ आप ड्रमों के बीच `sleep` के साथ भी कुछ नया प्रयोग कर सकते हैं। यहाँ कुछ उदाहरण दिए गए हैं जिन्हें आप आज़मा सकते हैं:
     
-    ![screenshot](images/drum-beat-challenge-2.png)
+    ![स्क्रीनशॉट](images/drum-beat-challenge-2.png)
 
 \--- /challenge \---
