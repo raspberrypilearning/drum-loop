@@ -1,17 +1,17 @@
-## The outro
+## Het outro
 
-Let's add an ending to the drum loop.
+Laten we een einde aan de drumloop toevoegen.
 
-+ Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
++ Voeg de `:drum_cymbal_open` sample toe aan het einde van je code, **buiten** de loop.
     
-    ![screenshot](images/drum-outro-1.png)
+    ![schermafbeelding](images/drum-outro-1.png)
 
-+ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
++ Druk op run om je code te testen. Het klinkt niet erg interessant, dus laten we ook een `:drum_snare_hard` sample toevoegen.
     
-    ![screenshot](images/drum-outro-2.png)
+    ![schermafbeelding](images/drum-outro-2.png)
 
-+ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the **same time**.
++ Test je code. Merk op dat er geen `sleep` is tussen de 2 outro samples zodat ze **gelijktijdig** spelen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Je browser ondersteunt het <code>audio</code>-element niet. </audio>
     </div>
