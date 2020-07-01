@@ -1,20 +1,20 @@
 ## Introduction
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+Dans ce projet, tu utiliseras des échantillons pour créer une boucle de batterie, y compris une intro et une outro.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Clique sur le bouton « play » ci-dessous pour entendre le son de ta boucle de batterie : <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Ton navigateur ne supporte pas l'élément <code>audio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Informations complémentaires pour les responsables de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notes pour le responsable de club
 
-## Introduction:
+## Introduction :
 
 In this project, children will learn how to use samples and repetition to create a drum loop.
 
