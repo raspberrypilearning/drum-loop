@@ -1,35 +1,35 @@
-## The intro
+## Het intro
 
-Let's start by creating a short intro to the drum loop.
+Laten we beginnen met het maken van een korte intro voor de drumloop.
 
-+ Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
++ Begin met het toevoegen van de `:drum_tom_hi_hard` sample. Als je begint te typen, zou je de sample moeten kunnen kiezen uit de lijst die verschijnt.
     
-    ![screenshot](images/drum-sample-help.png)
+    ![schermafbeelding](images/drum-sample-help.png)
 
-+ Here's how your code should look:
++ Zo zou je code eruit moeten zien:
     
-    ![screenshot](images/drum-intro-1.png)
+    ![schermafbeelding](images/drum-intro-1.png)
     
-    The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
+    De regel boven de sample die begint met `#` is een **commentaar**. Deze regels worden door Sonic Pi genegeerd, maar zijn handig als we ons willen herinneren wat onze code doet!
 
-+ Press run, and you should hear your drum sample.
++ Druk op run en je zou je drumsample moeten horen.
     
-    ![screenshot](images/drum-run.png)
+    ![schermafbeelding](images/drum-run.png)
 
-+ Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
++ Voeg nog 2 drumsamples toe, zodat ze van hoog naar laag gaan. Je zult ook `sleep` voor 1 maat tussen de samples nodig hebben.
     
-    ![screenshot](images/drum-intro-2.png)
+    ![schermafbeelding](images/drum-intro-2.png)
 
-+ If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
++ Als je je intro opnieuw uitvoert, hoor je dat het nogal langzaam is. Je kunt code toevoegen om het aantal beats per minuut (**bpm** -- de snelheid) van de muziek te wijzigen.
     
-    ![screenshot](images/drum-bpm.png)
+    ![schermafbeelding](images/drum-bpm.png)
 
-+ Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
++ Voeg ten slotte een `sleep` en een `:drum_splash_hard` sample toe aan het einde van het intro.
     
-    ![screenshot](images/drum-intro-splash.png)
+    ![schermafbeelding](images/drum-intro-splash.png)
 
-+ Test your intro again. You should now hear 3 drums, followed by a cymbal.
++ Test je intro opnieuw. Je zou nu 3 drums moeten horen, gevolgd door een bekken.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Je browser ondersteunt het <code>audio</code>-element niet. </audio>
     </div>
