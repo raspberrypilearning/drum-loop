@@ -1,44 +1,44 @@
-## Introduction
+## Inleiding
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+In dit project gebruik je samples om een drumloop te creëren, inclusief een intro en outro.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Klik op de afspeelknop hieronder om te horen hoe je drumloop zal klinken: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Aanvullende informatie voor clubleiders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Opmerkingen voor docenten
 
 ## Introduction:
 
-In this project, children will learn how to use samples and repetition to create a drum loop.
+In dit project leren kinderen hoe ze samples en herhaling kunnen gebruiken om een drumloop te creëren.
 
-## Resources
+## Bronnen
 
-The 'Project Materials' link for this project contains the following resources:
+De link 'Projectmaterialen' voor dit project bevat de volgende bronnen:
 
-##### Club leader Resources
+##### Clubleider bronnen
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Je kunt een voltooide versie van dit project vinden door te klikken op de link 'Projectmaterialen' voor dit project, dat het volgende bevat:
 
 * drum-loop.txt
 * drum-loop.mp3
 
-## Learning Objectives
+## Leerdoelen
 
 * Sonic Pi samples
 * Repetition
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combineer programmeerconstructies om een ​​probleem op te lossen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Uitdagingen
 
 * "Create your own drum loop" - using additional samples to create a personalised drum loop.
 
@@ -50,11 +50,11 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projectmaterialen
 
 ## Club leader resources
 
-* [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
-* [Downloadable completed project mp3 file](resources/drum-loop.mp3)
+* [Downloadbaar voltooid Sonic Pi-project](resources/drum-loop.txt)
+* [Downloadbaar voltooid project mp3-bestand](resources/drum-loop.mp3)
 
 \--- /collapse \---
