@@ -1,37 +1,37 @@
-## The drum loop
+## La boucle de batterie
 
-Now that you have an intro, let's code the main drum loop!
+Maintenant que tu as une intro, codons la boucle principale de la batterie !
 
-+ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
++ La boucle de batterie sera composée de 4 échantillons, alternant les basses (le son de batterie inférieur) et la caisse claire (le son de batterie supérieur).
     
-    Add this code **after your intro**:
+    Ajoute ce code **après ton intro**:
     
-    ![screenshot](images/drum-main.png)
+    ![capture d'écran](images/drum-main.png)
 
-+ Test your drum loop. You should hear 4 drum beats after your intro.
++ Teste ta boucle de batterie. Tu devrais entendre 4 battements de batterie après ton intro.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Ton navigateur ne supporte pas l'élément <code>audio</code>. </audio>
     </div>
-+ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
++ Tu peux répéter ta boucle de batterie en ajoutant `4.times do` avant tes tambours et `end` à la fin.
     
-    ![screenshot](images/drum-loop-bug.png)
+    ![capture d'écran](images/drum-loop-bug.png)
 
-+ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
++ Rejoue tes tambours et tu remarqueras qu'ils ne sont pas tout à fait corrects. C'est parce que tu dois ajouter un `sleep` après le tambour final dans la boucle.
     
-    ![screenshot](images/drum-loop-fix.png)
+    ![capture d'écran](images/drum-loop-fix.png)
 
-+ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
++ Teste ton code à nouveau. Cette fois, tu devrais entendre tes 4 battements de batterie se répéter 4 fois.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Ton navigateur ne supporte pas l'élément <code>audio</code>. </audio>
     </div>
-+ To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
++ Pour rendre ta boucle de batterie un peu plus intéressante, tu peux jouer deux fois sur la deuxième grosse caisse ** ** , pour seulement ** 0,5 ** de battements chacun.
     
-    ![screenshot](images/drum-loop-double.png)
+    ![capture d'écran](images/drum-loop-double.png)
 
-+ Test your code again. You should hear a different rhythm.
++ Teste ton code à nouveau. Tu devrais entendre un rythme différent.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Ton navigateur ne supporte pas l'élément <code>audio</code>. </audio>
     </div>
