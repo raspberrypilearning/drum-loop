@@ -20,7 +20,7 @@ sample :drum_tom_lo_hard
 sleep 1
 sample :drum_splash_hard
 
-#drum loop
+#boucle de batterie
 4.times do
   sample :drum_bass_hard
   sleep 1
