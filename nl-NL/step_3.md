@@ -1,37 +1,37 @@
-## The drum loop
+## De drumloop
 
-Now that you have an intro, let's code the main drum loop!
+Nu je een intro hebt, gaan we de drumloop zelf coderen!
 
-+ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
++ De drumloop gaan we maken met 4 samples, afwisselend de basdrum (het lagere drumgeluid) en snaardrum (het hogere drumgeluid).
     
-    Add this code **after your intro**:
+    Voeg deze code toe **na je intro**:
     
-    ![screenshot](images/drum-main.png)
+    ![schermafbeelding](images/drum-main.png)
 
-+ Test your drum loop. You should hear 4 drum beats after your intro.
++ Test je drumloop. Na je intro zou je 4 drumbeats moeten horen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Je browser ondersteunt het <code>audio</code>-element niet. </audio>
     </div>
-+ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
++ Je kunt je drumloop herhalen door `4.times do` toe te voegen voor je drums en `end` aan het einde.
     
-    ![screenshot](images/drum-loop-bug.png)
+    ![schermafbeelding](images/drum-loop-bug.png)
 
-+ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
++ Speel je drums weer af en je zult horen dat het niet helemaal goed klinkt. Dat is omdat je een `sleep` na de laatste drum in de loop moet toevoegen.
     
-    ![screenshot](images/drum-loop-fix.png)
+    ![schermafbeelding](images/drum-loop-fix.png)
 
-+ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
++ Test je code opnieuw. Deze keer zou je je 4 drumbeats 4 keer herhaald moeten horen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Je browser ondersteunt het <code>audio</code>-element niet. </audio>
     </div>
-+ To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
++ Om je drumloop een beetje interessanter te maken, kun je de tweede basdrum **twee keer** spelen, beide keren maar een **0.5** (halve) beat durend.
     
-    ![screenshot](images/drum-loop-double.png)
+    ![schermafbeelding](images/drum-loop-double.png)
 
-+ Test your code again. You should hear a different rhythm.
++ Test je code opnieuw. Je zou een ander ritme moeten horen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Je browser ondersteunt het <code>audio</code>-element niet. </audio>
     </div>
