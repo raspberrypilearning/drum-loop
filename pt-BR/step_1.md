@@ -1,60 +1,60 @@
-## Introduction
+## Introdução
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+Neste projeto, você usará samples (amostras) para criar um loop de bateria, incluindo uma introdução e conclusão.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Clique no botão de reprodução abaixo para ouvir como seu loop de bateria irá soar: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Seu navegador não suporta o elemento de <code>áudio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Informação adicional para líderes de clubes
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+Se você precisar imprimir este projeto, use a [Versão para Impressão](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas do líder do clube
 
-## Introduction:
+## Introdução:
 
-In this project, children will learn how to use samples and repetition to create a drum loop.
+Neste projeto, as crianças aprenderão como usar samples (amostras) e repetições para criar um loop de bateria.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+O link 'Materiais do Projeto' para este projeto contém os seguintes recursos:
 
-##### Club leader Resources
+##### Recursos do líder do clube
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Você pode encontrar uma versão completa deste projeto clicando no link 'Materiais do Projeto' para este projeto, que contém:
 
 * drum-loop.txt
 * drum-loop.mp3
 
-## Learning Objectives
+## Objetivos de Aprendizado
 
-* Sonic Pi samples
-* Repetition
+* Samples (amostras) do Sonic Pi
+* Repetição
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine estruturas de programação para resolver um problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Desafios
 
-* "Create your own drum loop" - using additional samples to create a personalised drum loop.
+* "Crie seu próprio loop de bateria" - usando samples (amostras) adicionais para criar um loop de bateria personalizado.
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Para encontrar samples (amostras) disponíveis no Sonic Pi, os alunos podem ir para [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Como alternativa, eles podem simplesmente digitar `sample [espaço]` e escolher um da lista que aparece.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiais do projeto
 
-## Club leader resources
+## Recursos do líder do clube
 
-* [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
-* [Downloadable completed project mp3 file](resources/drum-loop.mp3)
+* [Projeto Sonic Pi concluído para download](resources/drum-loop.txt)
+* [Arquivo mp3 do projeto concluído para download](resources/drum-loop.mp3)
 
 \--- /collapse \---
