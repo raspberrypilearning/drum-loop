@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own drum loop
+## Desafio: Crie seu próprio loop de bateria
 
-Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
+Você pode usar o que aprendeu para criar seu próprio loop de bateria? Aqui estão algumas ideias para ajudá-lo:
 
-+ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
++ Você pode alterar os samples de bateria usados em sua introdução ou conclusão. Para ver quais samples estão disponíveis, você pode ir para [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) , ou apenas digite `sample: drum` e escolha da lista que aparece.
     
-    ![screenshot](images/drum-outro-challenge.png)
+    ![captura de tela](images/drum-outro-challenge.png)
 
-+ You could experiment by adding more drums to your drum loop, that play for a shorter time:
++ Você pode experimentar adicionando mais batidas ao seu loop de bateria, que tocam por um tempo mais curto:
     
-    ![screenshot](images/drum-beat-challenge-1.png)
+    ![captura de tela](images/drum-beat-challenge-1.png)
 
-+ You could also play around with the `sleep`s between drums. Here are some examples you can try:
++ Você também pode brincar com os `sleep`s entre as batidas. Aqui estão alguns exemplos que você pode tentar:
     
-    ![screenshot](images/drum-beat-challenge-2.png)
+    ![captura de tela](images/drum-beat-challenge-2.png)
 
 \--- /challenge \---
