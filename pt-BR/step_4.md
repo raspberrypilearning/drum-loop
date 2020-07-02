@@ -1,17 +1,17 @@
-## The outro
+## A conclusão
 
-Let's add an ending to the drum loop.
+Vamos adicionar um final ao loop de bateria.
 
-+ Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
++ Adicione o sample `:drum_cymbal_open` no final do seu código, **fora** do loop.
     
-    ![screenshot](images/drum-outro-1.png)
+    ![captura de tela](images/drum-outro-1.png)
 
-+ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
++ Pressione run para testar seu código. Não soa muito interessante, então vamos adicionar um sample `:drum_snare_hard`.
     
-    ![screenshot](images/drum-outro-2.png)
+    ![captura de tela](images/drum-outro-2.png)
 
-+ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the **same time**.
++ Teste seu código. Observe que não há `sleep` entre os 2 samples da conclusão, então eles tocarão ao **mesmo tempo**.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Seu navegador não suporta o elemento de <code>áudio</code>. </audio>
     </div>
