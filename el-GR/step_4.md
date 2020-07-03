@@ -1,17 +1,17 @@
-## The outro
+## Η έξοδος
 
-Let's add an ending to the drum loop.
+Ας προσθέσουμε ένα τέλος στο βρόχο του τυμπάνου.
 
-+ Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
++ Πρόσθεσε το δείγμα `:drum_cymbal_open` στο τέλος του κώδικά σου, **έξω** από το βρόχο.
     
-    ![screenshot](images/drum-outro-1.png)
+    ![στιγμιότυπο οθόνης](images/drum-outro-1.png)
 
-+ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
++ Πάτησε «Run» για να ελέγξεις τον κώδικά σου. Δεν ακούγεται πολύ ενδιαφέρον, οπότε ας προσθέσουμε επίσης ένα δείγμα `:drum_snare_hard`.
     
-    ![screenshot](images/drum-outro-2.png)
+    ![στιγμιότυπο οθόνης](images/drum-outro-2.png)
 
-+ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the **same time**.
++ Δοκίμασε τον κώδικά σου. Παρατηρήστε ότι δεν υπάρχει αναμονή `sleep` μεταξύ των 2 δειγμάτων εξόδου, οπότε θα παίξουν **ταυτόχρονα**.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησης σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
