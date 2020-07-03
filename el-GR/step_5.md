@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own drum loop
+## Πρόκληση: Δημιούργησε το δικό σου βρόχο τυμπάνου
 
-Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
+Μπορείς να χρησιμοποιήσεις αυτά που έχεις μάθει για να δημιουργήσεις το δικό σου βρόχο τυμπάνου; Ακολουθούν ορισμένες ιδέες που θα σε βοηθήσουν:
 
-+ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
++ Θα μπορούσες να αλλάξεις τα δείγματα τυμπάνου που χρησιμοποιούνται στην εισαγωγή ή στην έξοδό σου. Για να δεις ποια δείγματα είναι διαθέσιμα, μπορείς να μεταβείς στη διεύθυνση [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) ή απλώς πληκτρολόγησε `sample :drum` και επέλεξε από τη λίστα που εμφανίζεται.
     
-    ![screenshot](images/drum-outro-challenge.png)
+    ![στιγμιότυπο οθόνης](images/drum-outro-challenge.png)
 
-+ You could experiment by adding more drums to your drum loop, that play for a shorter time:
++ Θα μπορούσες να πειραματιστείς προσθέτοντας περισσότερα τύμπανα στο βρόχο του τυμπάνου, που παίζουν για μικρότερο χρόνο:
     
-    ![screenshot](images/drum-beat-challenge-1.png)
+    ![στιγμιότυπο οθόνης](images/drum-beat-challenge-1.png)
 
-+ You could also play around with the `sleep`s between drums. Here are some examples you can try:
++ Θα μπορούσες επίσης να παίξεις με την αναμονή `sleep` ανάμεσα στα τύμπανα. Ακολουθούν ορισμένα παραδείγματα που μπορείς να δοκιμάσεις:
     
-    ![screenshot](images/drum-beat-challenge-2.png)
+    ![στιγμιότυπο οθόνης](images/drum-beat-challenge-2.png)
 
 \--- /challenge \---
