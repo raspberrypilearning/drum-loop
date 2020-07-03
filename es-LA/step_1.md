@@ -3,7 +3,7 @@
 En este proyecto usarás muestras de audio para crear un loops de batería, incluyendo una intro y outro.
 
 <div id="audio-preview" class="pdf-hidden">
-  Haz clic en el botón de reproducción que se muestra a continuación para escuchar cómo sonaría la melodía: <audio controls preload> <source src="recursos/bucle-de-bateria.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Haz clic en el botón de reproducción que se muestra a continuación para escuchar cómo sonaría la melodía: <audio controls preload> <source src="recursos/bucle-de-bateria.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
 </div>
 
 ### Información adicional para los líderes del club
@@ -18,9 +18,9 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 En este proyecto los niños y niñas aprenderán a utilizar muestras y repeticiones de audio para crear un bucle de batería.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+El enlace 'Materiales del proyecto' para este proyecto contiene los siguientes recursos:
 
 ##### Recursos para los líderes del club
 
