@@ -1,37 +1,37 @@
-## The drum loop
+## Ο βρόχος του τυμπάνου
 
-Now that you have an intro, let's code the main drum loop!
+Τώρα που έχεις μια εισαγωγή, ας κωδικοποιήσουμε τον κύριο βρόχο του τυμπάνου!
 
-+ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
++ Ο βρόχος του τυμπάνου θα αποτελείται από 4 δείγματα, εναλλάσσοντας το μπάσο (ο χαμηλότερος ήχος του τυμπάνου) και το ταμπούρο (ο υψηλότερος ήχος του τυμπάνου).
     
-    Add this code **after your intro**:
+    Βάλε αυτόν τον κώδικα **μετά την εισαγωγή**:
     
-    ![screenshot](images/drum-main.png)
+    ![στιγμιότυπο οθόνης](images/drum-main.png)
 
-+ Test your drum loop. You should hear 4 drum beats after your intro.
++ Δοκίμασε το βρόχο του τυμπάνου. Θα πρέπει να ακούς 4 ντραμς μετά από την εισαγωγή.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
-+ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
++ Μπορείς να επαναλάβεις το βρόχο του τυμπάνου προσθέτοντας `4.times do` (κάνε 4 φορές) πριν από τα τύμπανα σου και `end` (τέλος) στο τέλος.
     
-    ![screenshot](images/drum-loop-bug.png)
+    ![στιγμιότυπο οθόνης](images/drum-loop-bug.png)
 
-+ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
++ Παίξε ξανά τα ντραμς σου και θα παρατηρήσεις ότι δεν ακούγονται αρκετά σωστά. Αυτό συμβαίνει επειδή πρέπει να προσθέσεις μια αναμονή `sleep` μετά το τελευταίο τύμπανο στο βρόχο.
     
-    ![screenshot](images/drum-loop-fix.png)
+    ![στιγμιότυπο οθόνης](images/drum-loop-fix.png)
 
-+ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
++ Δοκίμασε ξανά τον κώδικά σου. Αυτή τη φορά θα πρέπει να ακούσεις τα 4 ντραμς να επαναλαμβάνονται 4 φορές.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
-+ To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
++ Για να κάνεις το βρόχο του τυμπάνου λίγο πιο ενδιαφέρον, μπορείς να παίξεις το δεύτερο τύμπανο μπάσου **δύο φορές**, για μόλις **0.5** χτύπους το καθένα.
     
-    ![screenshot](images/drum-loop-double.png)
+    ![στιγμιότυπο οθόνης](images/drum-loop-double.png)
 
-+ Test your code again. You should hear a different rhythm.
++ Δοκίμασε ξανά τον κώδικά σου. Θα πρέπει να ακούς ένα διαφορετικό ρυθμό.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
