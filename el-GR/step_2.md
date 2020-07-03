@@ -28,8 +28,8 @@
     
     ![στιγμιότυπο οθόνης](images/drum-intro-splash.png)
 
-+ Test your intro again. You should now hear 3 drums, followed by a cymbal.
++ Δοκίμασε ξανά τον κώδικά σου. Θα πρέπει τώρα να ακούς 3 ντραμς, ακολουθούμενα από ένα κύμβαλο.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
