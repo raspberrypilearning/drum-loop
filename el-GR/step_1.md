@@ -1,60 +1,60 @@
-## Introduction
+## Εισαγωγή
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+Σε αυτό το έργο θα χρησιμοποιήσεις δείγματα για να δημιουργήσεις ένα βρόχο τυμπάνου, συμπεριλαμβανομένου μιας εισαγωγής (intro) και μιας εξόδου (outro).
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Κάνε κλικ στο παρακάτω κουμπί αναπαραγωγής για να ακούσεις πώς θα ακουστεί ο ήχος σου: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/drum-loop/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Σημειώσεις συντονιστή ομάδας
 
-## Introduction:
+## Εισαγωγή:
 
-In this project, children will learn how to use samples and repetition to create a drum loop.
+Σε αυτό το έργο, τα παιδιά θα μάθουν πώς να χρησιμοποιούν τα δείγματα και την επανάληψη για να δημιουργήσουν ένα βρόχο τυμπάνου.
 
-## Resources
+## Πόροι
 
-The 'Project Materials' link for this project contains the following resources:
+Ο σύνδεσμος «Υλικό έργου» για το έργο αυτό περιέχει τους ακόλουθους πόρους:
 
-##### Club leader Resources
+##### Πόροι συντονιστή ομάδας
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Μπορείς να βρεις μια ολοκληρωμένη έκδοση αυτού του έργου κάνοντας κλικ στο σύνδεσμο «Υλικό έργου» για αυτό το έργο, το οποίο περιέχει:
 
 * drum-loop.txt
 * drum-loop.mp3
 
-## Learning Objectives
+## Στόχοι μάθησης
 
-* Sonic Pi samples
-* Repetition
+* Δείγματα Sonic Pi
+* Επανάληψη
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Προγράμματος Μαθημάτων Ψηφιακής Δημιουργίας του Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Συνδύασε δομές προγραμματισμού για να λύσεις ένα πρόβλημα.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Προκλήσεις
 
-* "Create your own drum loop" - using additional samples to create a personalised drum loop.
+* "Δημιούργησε το δικό σου βρόχο τυμπάνου" - χρησιμοποιώντας επιπλέον δείγματα για να δημιουργήσεις ένα εξατομικευμένο βρόχο.
 
-## Frequently Asked Questions
+## Συχνές Ερωτήσεις
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Για να βρουν δείγματα διαθέσιμα στο Sonic Pi, οι μαθητές μπορούν να μεταβούν στα [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Εναλλακτικά, μπορούν απλώς να πληκτρολογήσουν `sample [space]` και να επιλέξουν από τη λίστα που εμφανίζεται.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Υλικό έργου
 
-## Club leader resources
+## Πόροι συντονιστή ομάδας
 
-* [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
-* [Downloadable completed project mp3 file](resources/drum-loop.mp3)
+* [Δυνατότητα λήψης ολοκληρωμένου έργου Sonic Pi](resources/drum-loop.txt)
+* [Δυνατότητα λήψης αρχείου mp3 του ολοκληρωμένου έργου](resources/drum-loop.mp3)
 
 \--- /collapse \---
