@@ -11,7 +11,7 @@ sample :drum
 
 
 
-#intro
+#εισαγωγή
 sample :drum_tom_hi_hard
 sleep 1
 sample :drum_tom_mid_hard
@@ -20,7 +20,7 @@ sample :drum_tom_lo_hard
 sleep 1
 sample :drum_splash_hard
 
-#drum loop
+#βρόχος με τύμπανο
 4.times do
   sample :drum_bass_hard
   sleep 1
@@ -34,6 +34,6 @@ sample :drum_splash_hard
   sleep 1
 end
 
-#outro
+#έξοδος
 sample :drum_snare_hard
 sample :drum_cymbal_open
