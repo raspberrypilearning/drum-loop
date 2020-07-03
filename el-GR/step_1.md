@@ -3,7 +3,7 @@
 Σε αυτό το έργο θα χρησιμοποιήσεις δείγματα για να δημιουργήσεις ένα βρόχο τυμπάνου, συμπεριλαμβανομένου μιας εισαγωγής (intro) και μιας εξόδου (outro).
 
 <div id="audio-preview" class="pdf-hidden">
-  Κάνε κλικ στο παρακάτω κουμπί αναπαραγωγής για να ακούσεις πώς θα ακουστεί ο ήχος σου: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Κάνε κλικ στο παρακάτω κουμπί αναπαραγωγής για να ακούσεις πώς θα ακουστεί ο ήχος σου: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
 </div>
 
 ### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
