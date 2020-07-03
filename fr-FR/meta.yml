@@ -1,0 +1,24 @@
+---
+hero_image: images/drum-loop.png
+theme: green
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Boucle de batterie
+description: Apprendre à utiliser des échantillons pour créer ta propre boucle de batterie.
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
+interests: music
+technologies: 'sonic-pi'
+site_areas: projects
+hardware: ''
+software: 'sonic-pi'
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introduction
+  - title: L'intro
+  - title: La boucle de batterie
+  - title: L'outro
+  - title: 'Défi : créer ta propre boucle de batterie'
