@@ -1,35 +1,35 @@
-## The intro
+## イントロ
 
-Let's start by creating a short intro to the drum loop.
+まず、ドラムループの短いイントロから作りましょう。
 
-+ Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
++ まず、サンプル音源 (おんげん) `:drum_tom_hi_hard`を追加します。 入力し始めると、表示されるリストからサンプル音源(おんげん)を選べます。
     
-    ![screenshot](images/drum-sample-help.png)
+    ![スクリーンショット](images/drum-sample-help.png)
 
-+ Here's how your code should look:
++ コードは次のようになります。
     
-    ![screenshot](images/drum-intro-1.png)
+    ![スクリーンショット](images/drum-intro-1.png)
     
-    The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
+    sample（サンプル）の上にある`#`で始まる行は**コメント**です。 Sonic Pi はコメントを無視しますが、コードが何をするかを思い出したいときに便利です。
 
-+ Press run, and you should hear your drum sample.
++ run をおすと、ドラムのサンプル音源 (おんげん) が聞こえます。
     
-    ![screenshot](images/drum-run.png)
+    ![スクリーンショット](images/drum-run.png)
 
-+ Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
++ ハイからローになるように、ドラムのサンプル音源 (おんげん) をさらに2つ追加します。 また、サンプル音源 (おんげん) ごとに1拍 (いっぱく) ずつ `sleep` する (休む) 必要があります。
     
-    ![screenshot](images/drum-intro-2.png)
+    ![スクリーンショット](images/drum-intro-2.png)
 
-+ If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
++ もう一度イントロを実行すると、かなりおそいことが分かるでしょう。 1分あたりのビート (** bpm ** - スピード) を変更するコードを追加しましょう。
     
-    ![screenshot](images/drum-bpm.png)
+    ![スクリーンショット](images/drum-bpm.png)
 
-+ Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
++ 最後に、イントロのいちばん後ろに `sleep` とサンプル音源 (おんげん) `:drum_splash_hard` を追加します。
     
-    ![screenshot](images/drum-intro-splash.png)
+    ![スクリーンショット](images/drum-intro-splash.png)
 
-+ Test your intro again. You should now hear 3 drums, followed by a cymbal.
++ もう一度テストしてみましょう。 3つのドラムとシンバルの音が聞こえてくるはずです。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
     </div>
