@@ -1,37 +1,37 @@
-## The drum loop
+## ドラムループ
 
-Now that you have an intro, let's code the main drum loop!
+イントロができたので、メインのドラムループをコーディングしましょう！
 
-+ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
++ ドラムループは4つのサンプル音源 (おんげん) で構成され、ベース (低音) とスネア (高音) をこうごに鳴らします。
     
-    Add this code **after your intro**:
+    **イントロの後ろに**このコードを追加します。
     
-    ![screenshot](images/drum-main.png)
+    ![スクリーンショット](images/drum-main.png)
 
-+ Test your drum loop. You should hear 4 drum beats after your intro.
++ ドラムループをテストしましょう。 イントロの次に4つのドラムの音が聞こえるはずです。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
     </div>
-+ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
++ ドラムループをくり返すには、ドラムの前に`4.times do` (4回くり返す) を、最後に `end` (終わり) を追加します。
     
-    ![screenshot](images/drum-loop-bug.png)
+    ![スクリーンショット](images/drum-loop-bug.png)
 
-+ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
++ もう一度ドラムを鳴らすと、音が少しおかしいことが分かります。 ループの最後のドラムの後に`sleep`を追加する必要があるからです。
     
-    ![screenshot](images/drum-loop-fix.png)
+    ![スクリーンショット](images/drum-loop-fix.png)
 
-+ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
++ もう一度テストしてみましょう。 今度は4つのドラムの音が4回くり返されます。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
     </div>
-+ To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
++ 2つ目のバスドラムを**2回**、それぞれ**0.5拍**ずつ鳴らしてドラムループをもう少し楽しくしてみましょう。
     
-    ![screenshot](images/drum-loop-double.png)
+    ![スクリーンショット](images/drum-loop-double.png)
 
-+ Test your code again. You should hear a different rhythm.
++ もう一度テストしてみましょう。 ちがうリズムが聞こえます。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
     </div>
