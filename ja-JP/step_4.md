@@ -1,17 +1,17 @@
-## The outro
+## アウトロ
 
-Let's add an ending to the drum loop.
+ドラムループにエンディングを付けましょう。
 
-+ Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
++ ループの**外側**のコードの最後のところにサンプル音源 (おんげん) `:drum_cymbal_open` を追加します。
     
-    ![screenshot](images/drum-outro-1.png)
+    ![スクリーンショット](images/drum-outro-1.png)
 
-+ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
++ run をおしてコードをテストしましょう。 あまり面白くないので、サンプル音源 (おんげん) `:drum_snare_hard` も追加してみましょう。
     
-    ![screenshot](images/drum-outro-2.png)
+    ![スクリーンショット](images/drum-outro-2.png)
 
-+ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the **same time**.
++ コードをテストしましょう。 アウトロ用の2つのサンプル音源 (おんげん) の間に `sleep` がないので、2つの音は**同時**に再生されます。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
     </div>
