@@ -1,60 +1,60 @@
-## Introduction
+## はじめに
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+このプロジェクトでは、サンプル音源(おんげん)を使ってイントロとアウトロをふくむドラムループを作ります。
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  下の再生ボタンをクリックして、ドラムループの音を聞いてみてください。 <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
 </div>
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/drum-loop/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: クラブリーダー用ノート
 
-## Introduction:
+## はじめに
 
-In this project, children will learn how to use samples and repetition to create a drum loop.
+このプロジェクトでは、サンプル音源(おんげん)と繰り返しを使用してドラムループを作成する方法を学びます。
 
-## Resources
+## 資料
 
-The 'Project Materials' link for this project contains the following resources:
+このプロジェクトの「プロジェクト資料」は次の資料が含まれています。
 
-##### Club leader Resources
+##### クラブリーダー用資料
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+「プロジェクト資料」のリンクには、このプロジェクトの完成版があります。完成版のプロジェクトには次のファイルが含まれています。
 
 * drum-loop.txt
 * drum-loop.mp3
 
-## Learning Objectives
+## 学習のねらい
 
-* Sonic Pi samples
-* Repetition
+* Sonic Pi のサンプル
+* 繰り返し
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)（英語）の柱の一つである、プログラミングの以下の要素を学びます。
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [プログラミング構造を組み合わせて問題を解決する。](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## チャレンジ
 
-* "Create your own drum loop" - using additional samples to create a personalised drum loop.
+* 「自分だけのドラムループを作る」- 追加のサンプル音源(おんげん)を使用して自分だけのドラムループを作る。
 
-## Frequently Asked Questions
+## よくある質問
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Sonic Pi で利用できるサンプル音源(おんげん)は、[jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) にあります。 `sample [スペース]`と入力し、表示されたリストから選ぶこともできます。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: プロジェクト資料
 
-## Club leader resources
+## クラブリーダー用資料
 
-* [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
-* [Downloadable completed project mp3 file](resources/drum-loop.mp3)
+* [完成版 Sonic Pi プロジェクト (ダウンロード可)](resources/drum-loop.txt)
+* [完成版MP3ファイル (ダウンロード可)](resources/drum-loop.mp3)
 
 \--- /collapse \---
