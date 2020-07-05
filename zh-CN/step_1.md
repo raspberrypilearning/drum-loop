@@ -1,9 +1,9 @@
-## Introduction
+## 简介
 
-In this project you will use samples to create a drum loop, including an intro and outro.
+在此项目中，您将使用样本创建鼓循环，包括前奏和结尾。
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your drum loop will sound: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  单击下面的播放按钮试听鼓曲： <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> 您的浏览器不支持<code>音频</code>元素。 </audio>
 </div>
 
 ### Additional information for club leaders
