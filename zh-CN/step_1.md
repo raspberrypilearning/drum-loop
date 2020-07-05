@@ -6,55 +6,55 @@
   单击下面的播放按钮试听鼓曲： <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> 您的浏览器不支持<code>音频</code>元素。 </audio>
 </div>
 
-### Additional information for club leaders
+### 俱乐部导师的附加信息
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/drum-loop/print).
+如果您需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/en/projects/drum-loop/print) 。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 俱乐部导师说明
 
-## Introduction:
+## 简介
 
-In this project, children will learn how to use samples and repetition to create a drum loop.
+在这个项目中，孩子们将学习如何使用示例和重复来创建鼓循环。
 
-## Resources
+## 资源
 
-The 'Project Materials' link for this project contains the following resources:
+该项目的“项目材料”链接包含以下资源：
 
-##### Club leader Resources
+##### 俱乐部指导老师资源
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+您可以通过点击该项目的“项目材料”链接找到该项目的完整版本，其中包含：
 
 * drum-loop.txt
 * drum-loop.mp3
 
-## Learning Objectives
+## 学习目标
 
-* Sonic Pi samples
-* Repetition
+* Sonic Pi 示例
+* 重复
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [综合利用编程结构解决问题。](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## 挑战
 
-* "Create your own drum loop" - using additional samples to create a personalised drum loop.
+* “创建自己的鼓点循环”-使用其他示例创建个性化的鼓点循环。
 
-## Frequently Asked Questions
+## 常见问题
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* 若要在 Sonic Pi 中找到样本，学习者可以去[jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)。 或者，可以输入`样品 [space]` 并从弹出的列表中选择。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 项目资源
 
-## Club leader resources
+## 俱乐部指导老师资源
 
-* [Downloadable completed Sonic Pi project](resources/drum-loop.txt)
-* [Downloadable completed project mp3 file](resources/drum-loop.mp3)
+* [可下载的已完成的Sonic Pi项目](resources/drum-loop.txt)
+* [可下载的已完成项目mp3文件](resources/drum-loop.mp3)
 
 \--- /collapse \---
