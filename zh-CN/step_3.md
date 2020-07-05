@@ -1,4 +1,4 @@
-## The drum loop
+## 鼓点循环
 
 Now that you have an intro, let's code the main drum loop!
 
