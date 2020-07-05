@@ -1,37 +1,37 @@
 ## 鼓点循环
 
-Now that you have an intro, let's code the main drum loop!
+现在已经有前奏了，让我们继续编写鼓循环的主代码吧！
 
-+ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
++ 鼓循环将由4个示例组成，由低音鼓（较低的鼓声）和小鼓（较高的鼓声）交替发声。
     
-    Add this code **after your intro**:
+    **在你的前奏简介之后 **添加此代码 ：
     
-    ![screenshot](images/drum-main.png)
+    ![截屏](images/drum-main.png)
 
-+ Test your drum loop. You should hear 4 drum beats after your intro.
++ 测试您的鼓点循环。 前奏之后，您应该听到4声鼓声。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> 您的浏览器不支持 <code>audio</code> 元素。 </audio>
     </div>
-+ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
++ 您可以通过添加` 4.times do `在鼓和`end`末尾之前来重复您的鼓点循环。
     
-    ![screenshot](images/drum-loop-bug.png)
+    ![截屏](images/drum-loop-bug.png)
 
-+ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
++ 再次播放鼓声，您会发现它们的声音不太正确。 那是因为您需要在循环中的最后一个鼓点之后添加停顿` sleep`。
     
-    ![screenshot](images/drum-loop-fix.png)
+    ![截屏](images/drum-loop-fix.png)
 
-+ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
++ 再次测试代码。 这次您应该听到4次鼓声重复4次。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> 您的浏览器不支持 <code>audio</code> 元素。 </audio>
     </div>
-+ To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
++ 为了使你的鼓循环更加有趣，你可以将第二个低点的鼓播放**两次**。每次打**0.5**节拍。
     
-    ![screenshot](images/drum-loop-double.png)
+    ![截屏](images/drum-loop-double.png)
 
-+ Test your code again. You should hear a different rhythm.
++ 再次测试代码。 您应该听到不同的节奏。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> 您的浏览器不支持 <code>audio</code> 元素。 </audio>
     </div>
