@@ -1,35 +1,35 @@
-## The intro
+## 前奏
 
-Let's start by creating a short intro to the drum loop.
+让我们从创作简单的鼓点前奏开始。
 
-+ Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
++ 首先添加`:drum_tom_hard`样本。 如果您开始键入，则应该能够从出现的列表中选择样本。
     
-    ![screenshot](images/drum-sample-help.png)
+    ![截屏](images/drum-sample-help.png)
 
-+ Here's how your code should look:
++ 现在你的代码应如图所示：
     
-    ![screenshot](images/drum-intro-1.png)
+    ![截屏](images/drum-intro-1.png)
     
-    The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
+    样本上方以`＃`开始的一行是**评论** 。 这些行会被Sonic Pi忽略，但是当我们想提醒自己代码的作用时很有用！
 
-+ Press run, and you should hear your drum sample.
++ 按下运行，您应该会听到一声鼓声。
     
-    ![screenshot](images/drum-run.png)
+    ![截屏](images/drum-run.png)
 
-+ Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
++ 再添加2个鼓点，让这三个鼓点的音量从高到低。 还要在每个鼓点之间添加停顿`sleep`。
     
-    ![screenshot](images/drum-intro-2.png)
+    ![截屏](images/drum-intro-2.png)
 
-+ If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
++ 如果再次运行您就会发现前奏的速度已经很慢了。 您可以添加代码以更改音乐每分钟的节拍速度（** bpm ** - 速度）。
     
-    ![screenshot](images/drum-bpm.png)
+    ![截屏](images/drum-bpm.png)
 
-+ Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
++ 最后，在前奏末尾添加一个`sleep`和一个`:drum_splash_hard`样品。
     
-    ![screenshot](images/drum-intro-splash.png)
+    ![截屏](images/drum-intro-splash.png)
 
-+ Test your intro again. You should now hear 3 drums, followed by a cymbal.
++ 再次测试您的前奏。 您现在应该听到3声鼓声，然后是钹声。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> 您的浏览器不支持 <code>audio</code> 元素。 </audio>
     </div>
