@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own drum loop
+## 挑战：创建自己的鼓曲循环
 
-Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
+您可以使用学到的知识来创建自己的鼓循环吗？ 以下是一些可以帮助您的示例：
 
-+ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
++ 您可以更改在前奏或结尾中使用的鼓声样本。 要查看可用的样本，请转到[ jumpto.cc/sonic-pi-samples ](http://jumpto.cc/sonic-pi-samples) ，或键入` sample:drum `然后从显示的列表中选择。
     
-    ![screenshot](images/drum-outro-challenge.png)
+    ![截屏](images/drum-outro-challenge.png)
 
-+ You could experiment by adding more drums to your drum loop, that play for a shorter time:
++ 您可以通过在鼓循环中添加更多鼓点来进行试验，以缩短播放时间：
     
-    ![screenshot](images/drum-beat-challenge-1.png)
+    ![截屏](images/drum-beat-challenge-1.png)
 
-+ You could also play around with the `sleep`s between drums. Here are some examples you can try:
++ 你也可以在不同的鼓之间用停顿`sleep`来调整。 您可以尝试以下示例：
     
-    ![screenshot](images/drum-beat-challenge-2.png)
+    ![截屏](images/drum-beat-challenge-2.png)
 
 \--- /challenge \---
