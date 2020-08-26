@@ -1,16 +1,16 @@
-## The outro
+## 아웃트로 만들기
 
-Let's add an ending to the drum loop.
+드럼 루프를 마무리해보겠습니다.
 
-+ Add the `:drum_cymbal_open` sample at the end of your code, **outside** of the loop.
++ `:drum_cymbal_open` 샘플을 루프의 **바깥쪽** 끝 부분에 추가하세요.
     
-    ![screenshot](images/drum-outro-1.png)
+    ![스크린샷](images/drum-outro-1.png)
 
-+ Press run to test your code. It doesn't sound very interesting, so let's also add a `:drum_snare_hard` sample.
++ run 버튼을 눌러 코드를 테스트하세요. 음악이 별로 재밌지 않은 것 같으니 `:drum_snare_hard` 샘플도 추가해봅시다.
     
-    ![screenshot](images/drum-outro-2.png)
+    ![스크린샷](images/drum-outro-2.png)
 
-+ Test your code. Notice that there's no `sleep` between the 2 outro samples, so they'll play at the **same time**.
++ 코드를 테스트해 보세요. 아웃트로의 두 샘플 사이에 `sleep`가 없는 것으로 보아 **동시에** 재생될 것임을 알 수 있습니다.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
