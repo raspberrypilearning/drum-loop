@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Create your own drum loop
+## 도전과제: 나만의 드럼 루프 만들기!
 
-Can you use what you've learnt to create your own drum loop? Here are some ideas to help you:
+배운 것을 활용하여 자신만의 드럼 루프를 만들 수 있나요? 프로젝트를 진행하는데 도움이 될 사항을 알려드리겠습니다.
 
-+ You could change the drum samples used in your intro or outro. To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
++ 인트로 또는 아웃트로에 사용된 드럼 샘플을 변경할 수 있습니다. 사용 가능한 샘플을 확인하려면 [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)로 이동하거나, 그냥 `sample :drum`을 입력한 다음 표시되는 목록에서 선택하면 됩니다.
     
-    ![screenshot](images/drum-outro-challenge.png)
+    ![스크린샷](images/drum-outro-challenge.png)
 
-+ You could experiment by adding more drums to your drum loop, that play for a shorter time:
++ 드럼 루프에 더 짧은 시간 동안 재생되는 드럼을 추가하여 직접 실험해볼 수 있습니다.
     
-    ![screenshot](images/drum-beat-challenge-1.png)
+    ![스크린샷](images/drum-beat-challenge-1.png)
 
-+ You could also play around with the `sleep`s between drums. Here are some examples you can try:
++ 또는 각 드럼 사이 `sleep`을 가지고 음악을 만들어 봐도 좋습니다. 다음은 시도할 수 있는 몇 가지 예입니다:
     
-    ![screenshot](images/drum-beat-challenge-2.png)
+    ![스크린샷](images/drum-beat-challenge-2.png)
 
 \--- /challenge \---
