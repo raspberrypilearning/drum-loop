@@ -1,37 +1,37 @@
-## The drum loop
+## 드럼 루프 만들기
 
-Now that you have an intro, let's code the main drum loop!
+이제 인트로가 있으므로 메인 드럼 루프를 코딩해보겠습니다!
 
-+ The drum loop will be made up of 4 samples, alternating the bass (the lower drum sound) and snare (the higher drum sound).
++ 드럼 루프는 베이스(낮은 드럼 사운드)와 스네어(높은 드럼 사운드)를 번갈아 가며 4개의 샘플로 구성됩니다.
     
-    Add this code **after your intro**:
+    **인트로 이후**에 이 코드를 추가하세요:
     
-    ![screenshot](images/drum-main.png)
+    ![스크린샷](images/drum-main.png)
 
-+ Test your drum loop. You should hear 4 drum beats after your intro.
++ 드럼 루프를 테스트하세요. 인트로 후에 4개의 드럼 비트가 들려야합니다.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-1.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio>
     </div>
-+ You can repeat your drum loop by adding `4.times do` before your drums and `end` at the end.
++ 드럼 샘플 앞에 `4.times do`를 추가하고 뒤에 `end`를 추가하여 드럼 루프를 반복할 수 있습니다.
     
-    ![screenshot](images/drum-loop-bug.png)
+    ![스크린샷](images/drum-loop-bug.png)
 
-+ Play your drums again, and you'll notice that they don't quite sound right. That's because you need to add a `sleep` after the final drum in the loop.
++ 드럼을 다시 재생하면 제대로 들리지 않는 것을 알 수 있습니다. 이는 루프의 마지막 드럼 다음에 `sleep`를 추가하지 않았기 때문입니다.
     
-    ![screenshot](images/drum-loop-fix.png)
+    ![스크린샷](images/drum-loop-fix.png)
 
-+ Test your code again. This time you should hear your 4 drum beats repeat 4 times.
++ 코드를 다시 테스트 해 보세요. 이번에는 4개의 드럼 비트가 4번 반복되는 소리가 들려야 합니다.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ To make your drum loop a little more interesting, you can play the second bass drum **twice**, for just **0.5** beats each.
++ 드럼 루프를 좀 더 재미있게 만들려면 두 번째 베이스 드럼을 각각 **0.5**박자로 **두 번** 연주 할 수 있습니다.
     
-    ![screenshot](images/drum-loop-double.png)
+    ![스크린샷](images/drum-loop-double.png)
 
-+ Test your code again. You should hear a different rhythm.
++ 코드를 다시 테스트 해 보세요. 다른 리듬이 들릴 것입니다.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-3.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio>
     </div>
