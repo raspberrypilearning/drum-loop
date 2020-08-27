@@ -24,7 +24,7 @@
 + 코드를 다시 테스트 해 보세요. 이번에는 4개의 드럼 비트가 4번 반복되는 소리가 들려야 합니다.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-loop-2.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio>
     </div>
 + 드럼 루프를 좀 더 재미있게 만들려면 두 번째 베이스 드럼을 각각 **0.5**박자로 **두 번** 연주 할 수 있습니다.
     
