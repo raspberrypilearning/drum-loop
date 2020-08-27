@@ -3,7 +3,7 @@
 이 프로젝트에서는 샘플을 사용하여 인트로와 아웃트로를 포함한 드럼 루프를 만드는 방법에 대해 배웁니다.
 
 <div id="audio-preview" class="pdf-hidden">
-  아래의 재생 버튼을 클릭하면 드럼 루프를 직접 들어볼 수 있습니다: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  아래의 재생 버튼을 클릭하면 드럼 루프를 직접 들어볼 수 있습니다: <audio controls preload> <source src="resources/drum-loop.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio>
 </div>
 
 ### 교육자들을 위한 추가 정보
