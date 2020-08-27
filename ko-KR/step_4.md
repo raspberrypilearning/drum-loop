@@ -13,5 +13,5 @@
 + 코드를 테스트해 보세요. 아웃트로의 두 샘플 사이에 `sleep`가 없는 것으로 보아 **동시에** 재생될 것임을 알 수 있습니다.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-outro.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio>
     </div>
