@@ -31,5 +31,5 @@
 + 코드를 다시 테스트 해 보세요. 이제 드럼 3개와 심벌즈 소리가 들릴 것입니다.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio>
     </div>
