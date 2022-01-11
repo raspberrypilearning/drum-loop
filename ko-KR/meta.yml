@@ -10,15 +10,17 @@ title: 드럼 루프
 description: 샘플을 사용하여 자신 만의 드럼 루프를 만드는 방법을 알아봅니다.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: music
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 인트로 만들기
-  - title: 드럼 루프 만들기
-  - title: 아웃트로 만들기
-  - title: '도전과제: 나만의 드럼 루프 만들기!'
+- title: 소개
+  completion: engaged
+- title: 인트로 만들기
+- title: 드럼 루프 만들기
+- title: 아웃트로 만들기
+  completion: internal
+- title: '도전과제: 나만의 드럼 루프 만들기!'

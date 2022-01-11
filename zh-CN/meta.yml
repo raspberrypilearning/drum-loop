@@ -10,15 +10,17 @@ title: 鼓循环
 description: 了解如何使用样本创建自己的鼓循环。
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: 音乐
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017年1月1日
 steps:
-  - title: 介绍
-  - title: 前奏
-  - title: 鼓循环
-  - title: 结尾
-  - title: '挑战：创建自己的鼓循环'
+- title: 介绍
+  completion: engaged
+- title: 前奏
+- title: 鼓循环
+- title: 结尾
+  completion: internal
+- title: 挑战：创建自己的鼓循环

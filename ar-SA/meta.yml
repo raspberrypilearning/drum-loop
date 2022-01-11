@@ -10,15 +10,17 @@ title: حلقة الطبل (نغمة موسيقية)
 description: تعلم كيفية استخدام العينات لإنشاء حلقة الطبل الخاصة بك.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: music
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: المقدمة
-  - title: حلقة الطبل
-  - title: المقدمة
-  - title: 'التحدي: أنشئ حلقة الطبل الخاصة بك'
+- title: المقدمة
+  completion: engaged
+- title: المقدمة
+- title: حلقة الطبل
+- title: المقدمة
+  completion: internal
+- title: 'التحدي: أنشئ حلقة الطبل الخاصة بك'

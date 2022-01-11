@@ -10,15 +10,17 @@ title: Drum-Loop
 description: Lerne wie du aus Samples deinen eigenen Drum-Loop erstellen kannst.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: music
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Einleitung
-  - title: Das Intro
-  - title: Der Drum-Loop
-  - title: Das Outro
-  - title: 'Herausforderung: Erstelle deinen eigenen Drum-Loop'
+- title: Einleitung
+  completion: engaged
+- title: Das Intro
+- title: Der Drum-Loop
+- title: Das Outro
+  completion: internal
+- title: 'Herausforderung: Erstelle deinen eigenen Drum-Loop'
