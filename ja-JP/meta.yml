@@ -10,15 +10,19 @@ title: ドラムループ
 description: サンプルを使った自分だけのドラムループの作り方を学ぼう
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: music
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: はじめに
-  - title: イントロ
-  - title: ドラムループ
-  - title: アウトロ
-  - title: 'チャレンジ: 自分だけのドラムループを作る'
+- title: はじめに
+- title: イントロ
+- title: ドラムループ
+  completion:
+  - engaged
+- title: アウトロ
+  completion:
+  - internal
+- title: 'チャレンジ: 自分だけのドラムループを作る'

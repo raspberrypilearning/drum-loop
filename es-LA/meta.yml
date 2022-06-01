@@ -10,15 +10,19 @@ title: Bucle de batería
 description: Aprende a utilizar muestras de audio para crear tu propio bucle de batería.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: music
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: La intro
-  - title: El bucle de batería
-  - title: El outro
-  - title: 'Desafío: Crea tu propio bucle de batería'
+- title: Introducción
+- title: La intro
+- title: El bucle de batería
+  completion:
+  - engaged
+- title: El outro
+  completion:
+  - internal
+- title: 'Desafío: Crea tu propio bucle de batería'
