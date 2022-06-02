@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: はじめに
-  completion: engaged
 - title: イントロ
 - title: ドラムループ
+  completion:
+  - engaged
 - title: アウトロ
-  completion: internal
+  completion:
+  - internal
 - title: 'チャレンジ: 自分だけのドラムループを作る'

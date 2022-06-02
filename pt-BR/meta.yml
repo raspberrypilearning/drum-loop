@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introdução
-  completion: engaged
 - title: A introdução
 - title: O loop de bateria
+  completion:
+  - engaged
 - title: A conclusão
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: Crie seu próprio loop de bateria'

@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Das Intro
 - title: Der Drum-Loop
+  completion:
+  - engaged
 - title: Das Outro
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Erstelle deinen eigenen Drum-Loop'

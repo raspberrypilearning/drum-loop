@@ -19,9 +19,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: L'intro
 - title: La boucle de batterie
+  completion:
+  - engaged
 - title: L'outro
-  completion: internal
+  completion:
+  - internal
 - title: 'Défi : créer ta propre boucle de batterie'

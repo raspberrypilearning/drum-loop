@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 소개
-  completion: engaged
 - title: 인트로 만들기
 - title: 드럼 루프 만들기
+  completion:
+  - engaged
 - title: 아웃트로 만들기
-  completion: internal
+  completion:
+  - internal
 - title: '도전과제: 나만의 드럼 루프 만들기!'

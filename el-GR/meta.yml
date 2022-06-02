@@ -19,9 +19,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Η εισαγωγή
 - title: Ο βρόχος του τυμπάνου
+  completion:
+  - engaged
 - title: Η έξοδος
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: Δημιούργησε το δικό σου βρόχο τυμπάνου'

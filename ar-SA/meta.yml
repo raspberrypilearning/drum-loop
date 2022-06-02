@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: المقدمة
 - title: حلقة الطبل
+  completion:
+  - engaged
 - title: المقدمة
-  completion: internal
+  completion:
+  - internal
 - title: 'التحدي: أنشئ حلقة الطبل الخاصة بك'

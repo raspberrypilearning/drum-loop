@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: The intro
 - title: The drum loop
+  completion:
+  - engaged
 - title: The outro
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: Create your own drum loop'

@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: भूमिका
-  completion: engaged
 - title: प्रारंभ
 - title: ड्रम लूप
+  completion:
+  - engaged
 - title: समापन
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: अपना खुद का ड्रम लूप बनाना'

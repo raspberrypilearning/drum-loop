@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Het intro
 - title: De drumloop
+  completion:
+  - engaged
 - title: Het outro
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: maak je eigen drumloop'
