@@ -10,10 +10,10 @@ title: ड्रम लूप
 description: अपना स्वयं का ड्रम लूप बनाने के लिए नमूनों का उपयोग करना सीखें।
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: music
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
@@ -23,7 +23,11 @@ steps:
     title: प्रारंभ
   - 
     title: ड्रम लूप
+    completion:
+      - engaged
   - 
     title: समापन
+    completion:
+      - internal
   - 
     title: 'चुनौती: अपना खुद का ड्रम लूप बनाना'
