@@ -10,10 +10,10 @@ title: Βρόγχος Τυμπάνου
 description: Μάθε πώς να χρησιμοποιείς δείγματα για να δημιουργήσεις το δικό σου βρόχο τυμπάνου.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
 interests: music
-technologies: 'sonic-pi'
+technologies: sonic-pi
 site_areas: projects
 hardware: ''
-software: 'sonic-pi'
+software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
@@ -23,7 +23,11 @@ steps:
     title: Η εισαγωγή
   - 
     title: Ο βρόχος του τυμπάνου
+    completion:
+      - engaged
   - 
     title: Η έξοδος
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: Δημιούργησε το δικό σου βρόχο τυμπάνου'
