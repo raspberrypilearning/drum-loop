@@ -12,7 +12,7 @@ Puoi usare quello che hai imparato per creare il tuo giro di batteria? Ecco alcu
     
     ![screenshot](images/drum-beat-challenge-1.png)
 
-+ Potresti anche sperimentare con diversi `sleep` tra i colpi di batteria. Here are some examples you can try:
++ Potresti anche sperimentare con diversi `sleep` tra i colpi di batteria. Ecco alcuni esempi da provare:
     
     ![screenshot](images/drum-beat-challenge-2.png)
 
