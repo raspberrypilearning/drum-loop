@@ -6,28 +6,28 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Drum Loop
-description: Learn how to use samples to create your own drum loop.
+title: Giro di batteria
+description: Impara a usare i campioni per creare il tuo giro di batteria.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/drum-loop
-interests: music
+interests: musica
 technologies: sonic-pi
-site_areas: projects
+site_areas: progetti
 hardware: ''
 software: sonic-pi
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introduzione
   - 
-    title: The intro
+    title: La intro (introduzione)
   - 
-    title: The drum loop
+    title: Il giro di batteria
     completion:
       - engaged
   - 
-    title: The outro
+    title: La outro (finale)
     completion:
       - internal
   - 
-    title: 'Challenge: Create your own drum loop'
+    title: 'Sfida: Crea il tuo giro di batteria'
