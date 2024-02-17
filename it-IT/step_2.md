@@ -1,35 +1,35 @@
-## The intro
+## La intro (introduzione)
 
-Let's start by creating a short intro to the drum loop.
+Iniziamo creando una breve introduzione al giro di batteria.
 
-+ Start by adding the `:drum_tom_hi_hard` sample. If you start typing, you should be able to choose the sample from the list that appears.
++ Inizia aggiungendo il campione `:drum_tom_hi_hard`. Se inizi a digitare, dovresti essere in grado di scegliere il campione dall'elenco che appare.
     
     ![screenshot](images/drum-sample-help.png)
 
-+ Here's how your code should look:
++ Il tuo codice dovrebbe essere più o meno così:
     
     ![screenshot](images/drum-intro-1.png)
     
-    The line above the sample starting with `#` is a **comment**. These lines are ignored by Sonic Pi, but are useful for when we want to remind ourselves what our code does!
+    La linea sopra il campione che inizia con `#` è un **commento**. Queste linee sono ignorate da Sonic Pi, ma sono utili per quando vogliamo ricordare a noi stessi cosa fa il nostro codice!
 
-+ Press run, and you should hear your drum sample.
++ Premi run e dovresti ascoltare il tuo campione di batteria.
     
     ![screenshot](images/drum-run.png)
 
-+ Add 2 more drum samples, so that they go from high to low. You'll also need to `sleep` for 1 beat between each sample.
++ Aggiungi altri 2 campioni di batteria, in modo che vadano dall'alto verso il basso. Dovrai anche inserire uno `sleep` della durata di 1 battito tra ciascun campione.
     
     ![screenshot](images/drum-intro-2.png)
 
-+ If you run your intro again, you'll hear that it's quite slow. You can add code to change the beats per minute (**bpm** -- the speed) of the music.
++ Se esegui di nuovo la tua intro, sentirai che è piuttosto lenta. È possibile aggiungere un codice per modificare i battiti al minuto (**bpm** - la velocità) della musica.
     
     ![screenshot](images/drum-bpm.png)
 
-+ Finally, add a `sleep` and a `:drum_splash_hard` sample at the end of the intro.
++ Infine, aggiungi uno `sleep` e un campione `:drum_splash_hard` alla fine dell'intro.
     
     ![screenshot](images/drum-intro-splash.png)
 
-+ Test your intro again. You should now hear 3 drums, followed by a cymbal.
++ Prova di nuovo il tuo codice. Ora dovresti sentire 3 suoni di tamburo, seguiti da un piatto.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums-intro.mp3" type="audio/mpeg"> Il tuo browser non supporta l'<code>audio</code>. </audio>
     </div>
